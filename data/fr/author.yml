@@ -10,10 +10,6 @@ greeting: "Bonjour, je suis"
 contactInfo:
     email: "olivierdrieux.pro@gmail.com"
     phone: "0611726228"
-    stack-overflow:
-        icon: stack-overflow
-        url: "https://stackoverflow.com/users/7953565/rtxx"
-        text: "Stackoverflow"
 
 # a summary of what you do
 summary:

@@ -5,6 +5,12 @@ theme: "toha"
 
 defaultContentLanguage: fr
 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
 # Site parameters
 params:
     background: "images/background.jpg"
@@ -12,13 +18,11 @@ params:
         main: images/pdp.jpg
         inverted: images/pdp.jpg
         favicon: images/pdp.jpg
-
+    analytics:
+        enabled: false
+    newsletter:
+        enable: false
     features:
-        analytics:
-            enabled: false
-        newsletter:
-            enable: false
-        enableBlogPost: false
         toc:
             enable: true
         tags:
