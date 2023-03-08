@@ -1,0 +1,22 @@
+# some information about you
+name: "Olivier DRIEUX"
+nickname: "Olivier"
+image: "images/pdp.jpg"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Bonjour, je suis"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+    email: "olivierdrieux.pro@gmail.com"
+    phone: "0611726228"
+    stack-overflow:
+        icon: stack-overflow
+        url: "https://stackoverflow.com/users/7953565/rtxx"
+        text: "Stackoverflow"
+
+# a summary of what you do
+summary:
+    - I am a Developer
+    - I work with Go
+    - I love to work with some fun projects

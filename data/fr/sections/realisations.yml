@@ -1,0 +1,100 @@
+# section information
+section:
+    name: Réalisations
+    id: realisations
+    weight: 7
+    enable: true
+    showOnNavbar: true
+    template: sections/projects.html # allows you to point to a specific template.
+    # Can optionally hide the title in sections
+    # hideTitle: true
+
+# your projects
+projects:
+    - name: Application web pour BattleSquad
+      logo: /images/realisations/battlesquad/featured-image.png
+      url: /posts/realisations/battlesquad
+      role: Développeur
+      timeline: "Mai 2019 - Janvier 2021"
+      summary: BattleSquad est une plateforme permettant la gestion de tournois de jeux-vidéos en ligne.
+      tags:
+          [
+              "Gestion de projet",
+              "Autonomie",
+              "Adaptabilité",
+              "Travail en équipe",
+              "PHP",
+              "MySQL",
+              "HTML",
+              "CSS",
+          ]
+
+    - name: Docker WordPress SSH
+      logo: /images/realisations/docker-wordpress-ssh/featured-image.svg
+      url: /posts/realisations/docker-wordpress-ssh
+      role: Développeur
+      summary: Une image de conteneur Docker pour faciliter le déploiement et les tests de fonctionnalités sur des sites web WordPress en environnement local.
+      tags:
+          [
+              "Autonomie",
+              "Adaptabilité",
+              "Travail en équipe",
+              "Docker",
+              "WordPress",
+              "SSH",
+          ]
+
+    - name: Application web pour le Théâtre du Jour
+      logo: /images/realisations/theatre-du-jour/featured-image.png
+      url: /posts/realisations/theatre-du-jour
+      role: Développeur
+      timeline: "Avril 2020 - Mars 2021"
+      summary: Application web permettant de gérer les élèves, artises, intervenants, compagnies et structures de l'école de théâtre.
+      tags:
+          [
+              "Gestion de projet",
+              "Autonomie",
+              "Analyse des besoins",
+              "Travail en équipe",
+              "Adaptabilité",
+              "Symfony",
+              "MySQL",
+              "HTML",
+              "CSS",
+          ]
+
+    - name: Application multi-plateforme
+      logo: /images/realisations/olau/featured-image.png
+      url: /posts/realisations/olau
+      role: Développeur
+      timeline: "Janvier 2022 - Maintenant"
+      summary: Application web, Android et IOS permettant de faciliter le métier des conducteurs et conductrices de travaux.
+      tags:
+          [
+              "Gestion de projet",
+              "Autonomie",
+              "Analyse des besoins",
+              "Adaptabilité",
+              "Symfony",
+              "MySQL",
+              "HTML",
+              "CSS",
+          ]
+
+    - name: Application web
+      logo: /images/realisations/pegaseo/featured-image.svg
+      url: /posts/realisations/pegaseo
+      role: Développeur
+      timeline: "Septembre 2021 - Maintenant"
+      summary: Application web et API permettant de faciliter le travail de l'entreprise Linkweb.
+      tags:
+          [
+              "Autonomie",
+              "Adaptabilité",
+              "Travail en équipe",
+              "Symfony",
+              "React",
+              "MySQL",
+              "HTML",
+              "CSS",
+          ]

@@ -1,0 +1,17 @@
+Je suis un étudiant dans le développement web qui rédige un portfolio comportant mes compétences techniques et humaines. Les consignes de rédaction d'une compétences sont les suivantes :
+_ma définition	_je définis la compétence
+	...en la situant dans un contexte professionnel
+	...en la rapportant, le cas échéant, à une actualité donnée (dans l'entreprise, dans les médias, dans la presse spécialisée).
+_mes éléments de preuve	_je rédige 1 à 3 anecdotes (exemples concrets de ce que j'ai réalisé) dans 1 à 3 paragraphes spécifiques. Si l'anecdote se réfère à une réalisation déjà décrite dans la rubrique "Réalisations" : pointer vers la page de cette réalisation.
+	_je prouve que ma compétence a bien été mise en œuvre dans la situation évoquée
+	_pour chaque anecdote, le résultat est énoncé et ma valeur ajoutée est mise en avant (prouvant que j'ai résolu un problème ou atteint un objectif grâce à cette compétence)
+	_un lien renvoie à la réalisation évoquée dans l'anecdote
+_mon autocritique	_je précise mon niveau de maîtrise de la compétence (voire expertise),
+	...ma marge de progression dans cette compétence et la contextualisation de cette compétence (est-ce que ma compétence fonctionne de la même manière en toute situation ?),
+	...la place, l'importance, la priorité de cette compétence dans mon profil d'Expert en Ingénierie ou dans mon métier actuel (et par rapport à mes responsabilités actuelles,
+	...ma vitesse d'acquisition de cette compétence, si cela a été remarquable,
+	...mon recul sur la compétence -> conseils pour moi-même ou pour les autres par rapport à cette compétence (avec l’expérience que j’ai aujourd’hui, je conseille de…),
+_mon évolution dans cette compétence	_je situe cette compétence dans mon projet personnel-professionnel / niveau que je souhaite atteindre dans cette compétence à moyen terme
+	_j'annonce mes formations ou autoformations en cours ou à venir, sur cette compétence
+
+Avec ces consignes, rédige moi un article présentant la compétence technique du framework "Symfony" 

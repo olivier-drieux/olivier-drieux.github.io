@@ -1,0 +1,89 @@
+section:
+    name: Expérience # Title of section (default: "")
+    id: experience # url id/slug of section *Required*
+    weight: 2 # Order to display section in (default: alphabetical followed by weight)
+    enable: true # Boolean to determine if this section is enabled (default: false)
+    showOnNavbar: false # Boolean to determine if a link should be shown for this section on the navbar
+    template: sections/experiences.html # allows you to point to a specific template.
+
+experiences:
+    - company:
+          name: Linkweb
+          url: "https://linkweb.fr"
+          location: Agen - Nouvelle Aquitaine
+          # company overview
+          overview: Linkweb est une entreprise spécialisée dans le développement de solutions digitales pour les entreprises.
+      positions:
+          - designation: Alternant développeur web fullstack
+            start: Septembre 2021
+            # don't provide end date if you are currently working there. It will be replaced by "Present"
+            # end: Dec 2020
+            # give some points about what was your responsibilities at the company.
+            responsibilities:
+                - Développement et maintient de l'API et de son architecture
+                - Design et développement de l'application web interne à l'entreprise
+
+    - company:
+          name: onepoint
+          url: "https://www.groupeonepoint.com/fr/"
+          location: Bordeaux
+          overview: OnePoint est une entreprise de services numériques qui offre des solutions technologiques et des services de conseil aux entreprises.
+      positions:
+          - designation: Stagiaire développeur J2EE
+            start: Fevrier 2021
+            end: Juillet 2021
+            responsibilities:
+                - Développement et maintenance d'une API.
+
+    - company:
+          name: Start.in'tech
+          location: Agen
+          overview: Start.in'tech est une association proposant des projets de développement rémunérés aux étudiants.
+      positions:
+          - designation: Développeur web fullstack
+            start: Avril 2020
+            end: Mars 2021
+            responsibilities:
+                - Design et développement d'une application web
+                - Gestion de projet
+                - Communication client
+
+    - company:
+          name: BattleSquad
+          location: Agen
+          overview: BattleSquad est une association proposant ses services dans l'organisation de tournois de jeux-vidéos en ligne.
+      positions:
+          - designation: Développeur web
+            start: Mai 2019
+            end: Janvier 2021
+            responsibilities:
+                - Design, développement et maintenance d'une application web
+                - Organisation de tournois de jeux-vidéos en ligne
+                - Gestion de projet
+                - Communication client
+
+    - company:
+          name: Mètre Cube
+          url: https://www.metre-cube.com/
+          location: Agen
+          overview: Mètre Cube a pour mission d'apporter des solutions pour la modification ou la création de vos aménagements extérieurs ainsi que le terrassement pour de futures constructions ou encore la gestion de votre assainissement.
+      positions:
+          - designation: Développeur web
+            start: Mai 2019
+            end: Janvier 2021
+            responsibilities:
+                - Design et développement d'une application web
+                - Communication client
+
+    - company:
+          name: CGI
+          location: Agen
+          overview: CGI est une entreprise de services numériques qui offre des solutions technologiques et des services de conseil aux entreprises.
+      positions:
+          - designation: Développeur web
+            start: Juillet 2016
+            end: Juillet 2018
+            responsibilities:
+                - Analyser et développer les besoins d'un client via un cahier des charges.
+                - "Déterminer les besoins du client en direct: déplacements professionnels à Paris."
+                - Utiliser la méthode agile dans les domaines informatiques TMA et BI.

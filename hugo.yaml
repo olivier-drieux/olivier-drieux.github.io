@@ -1,0 +1,46 @@
+baseURL: "https://olivier-drieux.github.io/"
+languageCode: "fr-FR"
+title: "Olivier Drieux"
+theme: "toha"
+
+defaultContentLanguage: fr
+
+# Site parameters
+params:
+    background: "images/background.jpg"
+    logo:
+        main: images/pdp.jpg
+        inverted: images/pdp.jpg
+        favicon: images/pdp.jpg
+
+    features:
+        analytics:
+            enabled: false
+        newsletter:
+            enable: false
+        enableBlogPost: false
+        toc:
+            enable: true
+        tags:
+            enable: true
+        portfolio:
+            enable: true
+        blog:
+            enable: false
+            # Share post on different social media
+            shareButtons:
+                facebook: true
+                twitter: true
+                linkedin: true
+                reddit: true
+                whatsapp: true
+                email: true
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    tableOfContents:
+        startLevel: 2
+        endLevel: 6
+        ordered: false

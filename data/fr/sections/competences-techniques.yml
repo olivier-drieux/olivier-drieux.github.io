@@ -1,0 +1,33 @@
+section:
+    name: Compétences Techniques # Title of section (default: "")
+    id: competences-techniques # url id/slug of section *Required*
+    weight: 5 # Order to display section in (default: alphabetical followed by weight)
+    enable: true # Boolean to determine if this section is enabled (default: false)
+    showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+    template: sections/skills.html # allows you to point to a specific template.
+
+skills:
+    - name: Symfony
+      logo: /images/competences-techniques/symfony/featured-image.svg
+      summary: Symfony est un framework PHP open-source et flexible pour le développement d'applications web.
+      url: /posts/competences-techniques/symfony
+
+    - name: React
+      logo: /images/competences-techniques/react/featured-image.png
+      summary: React est une bibliothèque JavaScript open-source créée par Facebook pour le développement d'interfaces utilisateur interactives et dynamiques.
+      url: posts/competences-techniques/react
+
+    - name: MySQL
+      logo: /images/competences-techniques/mysql/featured-image.png
+      summary: MySQL est un système de gestion de base de données relationnelle open-source.
+      url: /posts/competences-techniques/mysql
+
+    - name: Docker
+      logo: /images/competences-techniques/docker/featured-image.svg
+      summary: Docker est une plateforme open-source qui permet de créer, déployer et exécuter des applications dans des conteneurs logiciels.
+      url: /posts/competences-techniques/docker
+
+    - name: React Native
+      logo: /images/competences-techniques/react-native/featured-image.png
+      summary: React Native est un framework open-source développé par Facebook pour créer des applications mobiles pour iOS et Android en utilisant JavaScript et la bibliothèque React.
+      url: posts/competences-techniques/react-native

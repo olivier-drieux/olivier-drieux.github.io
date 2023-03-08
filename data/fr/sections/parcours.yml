@@ -1,0 +1,46 @@
+# section information
+section:
+    name: Parcours
+    id: parcours
+    weight: 3
+    enable: true
+    showOnNavbar: false
+    template: sections/education.html
+    # Can optionally hide the title in sections
+    # hideTitle: true
+
+degrees:
+    - name: Expert en Ingénierie du développement d'applications
+      icon: fa-graduation-cap
+      timeframe: 2018-2023
+      institution:
+          name: Groupe AEN
+          url: 'https://www.groupe-aen.info/'
+      takenCourses:
+          collapseAfter: 5
+          courses:
+              - name: Développement NodeJS
+              - name: Développement PHP
+              - name: Développement C# WPF
+              - name: Développement Java Android
+              - name: Développement Java 2 Entreprise Edition
+
+    - name: BTS informatique et réseaux pour l'industrie et les services techniques
+      icon: fa-university
+      timeframe: 2013-2015
+      institution:
+          name: Lycée Alfred Kastler
+          url: 'https://www.lyceekastler.fr/'
+      takenCourses:
+          collapseAfter: 3
+          courses:
+              - name: Informatique industrielle
+              - name: Physique appliquée
+              - name: Mathématiques
+
+    - name: Baccalauréat scientifique - Sciences et technologies de l'industrie et du développement durable
+      icon: fa-school
+      timeframe: 2010-2013
+      institution:
+          name: Lycée Alfred Kastler
+          url: 'https://www.lyceekastler.fr/'

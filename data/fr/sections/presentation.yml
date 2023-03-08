@@ -1,0 +1,35 @@
+section:
+    name: Présentation # Title of section (default: "")
+    id: presentaton # url id/slug of section *Required*
+    weight: 1 # Order to display section in (default: alphabetical followed by weight)
+    enable: true # Boolean to determine if this section is enabled (default: false)
+    showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+    template: sections/about.html # allows you to point to a specific template.
+
+# your designation
+designation: Développeur web fullstack
+# your company information
+company:
+    name: Linkweb
+    url: "https://linkweb.fr/"
+
+summary: "Développeur web fullstack en alternance chez Linkweb situé à Agen et étudiant en dernière année à IN'TECH Sud depuis septembre 2018.
+Ma passion pour le développement et pour l'informatique en général se reflète dans mon travail chez Linkweb où je développe des logiciels internes avec React et un serveur API avec Symfony, ainsi que dans mes projets personnels où je travaille sur divers projets d'applications.
+En plus de mes compétences techniques, je suis capable d'analyser les besoins des clients, concevoir des solutions adaptées, et travailler de manière autonome sur des projets complexes. De plus, je suis à l'aise pour travailler en équipe et j'ai démontré ma capacité à m'adapter rapidement aux nouvelles technologies et aux environnements de développement."
+
+socialLinks:
+    - name: Email
+      icon: "fas fa-envelope"
+      url: "olivierdrieux.pro@gmail.com"
+
+    - name: Github
+      icon: "fab fa-github"
+      url: "https://github.com/olivier-drieux"
+
+    - name: Stackoverflow
+      icon: "fab fa-stack-overflow"
+      url: "https://stackoverflow.com/users/7953565/rtxx"
+
+    - name: LinkedIn
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/olivier-drieux"
