@@ -5,5 +5,5 @@ openGraph:
   title: Portfolio d'Olivier DRIEUX
   type: website
   description: Portfolio d'Olivier DRIEUX
-  image: images/pdp.jpg
+  image: https://olivier-drieux.github.io/images/pdp.jpg
   url: https://olivier-drieux.github.io/
