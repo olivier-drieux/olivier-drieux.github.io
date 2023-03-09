@@ -11,7 +11,7 @@ section:
 
 # your projects
 projects:
-    - name: Application web pour Battlesquad
+    - name: BattleSquad, application web
       logo: /images/realisations/battlesquad/featured-image.png
       url: /posts/realisations/battlesquad
       role: Développeur
@@ -44,7 +44,7 @@ projects:
               "SSH",
           ]
 
-    - name: Application web pour le Théâtre du Jour
+    - name: Théâtre du Jour, application web
       logo: /images/realisations/theatre-du-jour/featured-image.png
       url: /posts/realisations/theatre-du-jour
       role: Développeur
@@ -63,7 +63,7 @@ projects:
               "CSS",
           ]
 
-    - name: Application multi-plateforme
+    - name: OLAU, application multi-plateforme
       logo: /images/realisations/olau/featured-image.png
       url: /posts/realisations/olau
       role: Développeur
@@ -81,7 +81,7 @@ projects:
               "CSS",
           ]
 
-    - name: Application web
+    - name: Pegaseo, application web
       logo: /images/realisations/pegaseo/featured-image.svg
       url: /posts/realisations/pegaseo
       role: Développeur

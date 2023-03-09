@@ -1,13 +1,12 @@
 ---
-title: 'Pegaseo - Application web'
+title: Pegaseo, une application web pour le référencement
 date: 2023-01-01
-tags: ["react","javascript","typescript","web","application web"]
+tags: ["react", "javascript", "typescript", "web", "application web"]
 categories: realisations
 image: /images/realisations/pegaseo-application-web/featured-image.svg
 ---
 
-------
-Nous avons développé une application web interne qui permettra plus tard de gérer le réseau de sites web "Private blog networks" (PBN) de Linkweb et de proposer des prestations de référencement à des clients. Pour l'instant, cette application est utilisée par les employés de Linkweb pour gérer le référencement des sites clients en rédigeant et publiant des articles optimisés pour le référencement SEO.
+<!-- Nous avons développé une application web interne qui permettra plus tard de gérer le réseau de sites web "Private blog networks" (PBN) de Linkweb et de proposer des prestations de référencement à des clients. Pour l'instant, cette application est utilisée par les employés de Linkweb pour gérer le référencement des sites clients en rédigeant et publiant des articles optimisés pour le référencement SEO.
 
 L'objectif de l'application est d'améliorer l'efficacité de la gestion du référencement des sites clients pour l'entreprise, et plus tard, d'offrir des prestations de référencement plus aisément. Dans un contexte où le référencement devient de plus en plus crucial pour les entreprises cherchant à élargir leur présence en ligne, le défi est de se démarquer de la concurrence en proposant une application innovante pour la gestion du référencement. Cependant, les risques sont associés à la qualité du référencement qui dépendra de la qualité du développement de l'application.
 
@@ -41,4 +40,4 @@ Avec ces informations, faire une présentation du projet en suivant les directiv
 4.	Les acteurs
 5.	Les résultats
 6.	Les lendemains du projet : dans un futur immédiat, à distance, aujourd'hui
-7.	Mon regard critique
+7.	Mon regard critique -->
