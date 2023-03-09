@@ -11,12 +11,12 @@ section:
 
 # your projects
 projects:
-    - name: Application web pour BattleSquad
+    - name: Application web pour Battlesquad
       logo: /images/realisations/battlesquad/featured-image.png
       url: /posts/realisations/battlesquad
       role: Développeur
       timeline: "Mai 2019 - Janvier 2021"
-      summary: BattleSquad est une plateforme permettant la gestion de tournois de jeux-vidéos en ligne.
+      summary: Battlesquad est une plateforme permettant la gestion de tournois de jeux-vidéos en ligne.
       tags:
           [
               "Gestion de projet",

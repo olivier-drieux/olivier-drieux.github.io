@@ -26,7 +26,7 @@ params:
         toc:
             enable: true
         tags:
-            enable: true
+            enable: false
         portfolio:
             enable: true
         blog:

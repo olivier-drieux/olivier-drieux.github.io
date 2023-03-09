@@ -1,16 +1,25 @@
 ---
 title: Symfony
 date: 2023-01-01
-tags: []
-categories: competences-techniques
+tags: [
+    "Symfony",
+    "PHP",
+    "Twig",
+    "Doctrine",
+    "ORM",
+    "SQL",
+    "HTML",
+    "CSS",
+]
 hero: /images/competences-techniques/symfony/symfony.jpg
 theme: Toha
 description: Compétence Symfony
 menu:
-    sidebar:
-        name: Symfony
-        identifier: symfony
-        weight: 500
+  sidebar:
+    name: Symfony
+    identifier: symfony
+    parent: competences-techniques
+    weight: 1
 ---
 
 ## Définition

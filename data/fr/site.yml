@@ -1,3 +1,9 @@
 copyright: © 2023 Copyright.
 description: Portfolio de Olivier DRIEUX, développeur web fullstack.
 
+openGraph:
+  title: Portfolio d'Olivier DRIEUX
+  type: website
+  description: Portfolio d'Olivier DRIEUX
+  image: images/pdp.jpg
+  url: https://olivier-drieux.github.io/

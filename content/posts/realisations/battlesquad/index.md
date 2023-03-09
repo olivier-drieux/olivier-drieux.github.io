@@ -1,7 +1,16 @@
 ---
 title: Battlesquad - Site d'organisation de tournois de jeux en ligne
 date: 2023-01-01
-tags: []
+tags: [
+    "Gestion de projet",
+    "Autonomie",
+    "Adaptabilité",
+    "Travail en équipe",
+    "PHP",
+    "MySQL",
+    "HTML",
+    "CSS",
+]
 categories: realisations
 hero: /images/realisations/battlesquad/featured-image.png
 theme: Toha
@@ -10,6 +19,7 @@ menu:
     sidebar:
         name: Battlesquad
         identifier: battlesquad
+        parent: realisations
         weight: 500
 ---
 

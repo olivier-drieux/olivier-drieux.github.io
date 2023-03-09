@@ -49,9 +49,9 @@ experiences:
                 - Communication client
 
     - company:
-          name: BattleSquad
+          name: Battlesquad
           location: Agen
-          overview: BattleSquad est une association proposant ses services dans l'organisation de tournois de jeux-vidéos en ligne.
+          overview: Battlesquad est une association proposant ses services dans l'organisation de tournois de jeux-vidéos en ligne.
       positions:
           - designation: Développeur web
             start: Mai 2019

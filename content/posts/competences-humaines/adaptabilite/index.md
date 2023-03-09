@@ -2,7 +2,6 @@
 title: Adaptabilité
 date: 2023-01-01
 showthedate: false
-tags: ["test"]
 hero: /images/competences-humaines/adaptabilite/featured-image.png
 description: "L'adaptabilité est la capacité à s'adapter à un environnement changeant. Elle est un facteur clé de réussite dans la vie professionnelle et personnelle."
 theme: Toha
@@ -10,7 +9,8 @@ menu:
   sidebar:
     name: Adaptabilité
     identifier: adaptabilite
-    weight: 500
+    parent: competences-humaines
+    weight: 1
 ---
 
 ## Définition
@@ -28,6 +28,6 @@ Dans une autre situation, j'ai travaillé sur un projet où les clients changeai
 Mon niveau actuel de **maîtrise de l'adaptabilité** me permet de m'adapter à de **nouveaux environnements professionnels** et à de **nouveaux outils technologiques** avec une relative facilité, mais il y a toujours des domaines dans lesquels je peux m'améliorer. Par exemple, je pourrais travailler sur ma capacité à m'adapter à des **changements** de dernière minute, car cela peut parfois être stressant. Je pense que **l'adaptabilité** est l'une des **compétences** les plus importantes dans le **développement web**, car les outils et les technologies évoluent rapidement et les projets sont souvent soumis à des **changements**.
 
 ## Réalisations
-- [BattleSquad]({{< ref "posts/realisations/battlesquad" >}} "BattleSquad") : un projet où j'ai dû **monter en compétences** sur la construction et la gestion d'une application accueillant des centaines d'utilisateurs.
+- [Battlesquad]({{< ref "posts/realisations/battlesquad" >}} "Battlesquad") : un projet où j'ai dû **monter en compétences** sur la construction et la gestion d'une application accueillant des centaines d'utilisateurs.
 - [Docker WordPress SSH]({{< ref "posts/realisations/docker-wordpress-ssh" >}} "Docker WordPress SSH") : un projet où j'ai dû **apprendre** une nouvelle technologie en quelques jours pour **répondre aux besoins** d'un autre projet.
 - [Pegaseo]({{< ref "posts/realisations/pegaseo" >}} "Pegaseo") : un projet où j'ai dû **apprendre** un nouveau langage de programmation pour **répondre aux besoins** de l'entreprise.
