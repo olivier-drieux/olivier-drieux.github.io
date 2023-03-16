@@ -12,12 +12,12 @@ skills:
       summary: Symfony est un framework PHP open-source et flexible pour le développement d'applications web.
       url: /posts/competences-techniques/symfony
 
-    - name: React - Professionnel
+    - name: React - Expert
       logo: /images/competences-techniques/react/featured-image.png
       summary: React est une bibliothèque JavaScript open-source créée par Facebook pour le développement d'interfaces utilisateur interactives et dynamiques.
       url: posts/competences-techniques/react
 
-    - name: MySQL - Professionnel
+    - name: MySQL - Expert
       logo: /images/competences-techniques/mysql/featured-image.png
       summary: MySQL est un système de gestion de base de données relationnelle open-source.
       url: /posts/competences-techniques/mysql
