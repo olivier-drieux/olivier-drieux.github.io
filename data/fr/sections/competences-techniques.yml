@@ -7,27 +7,27 @@ section:
     template: sections/skills.html # allows you to point to a specific template.
 
 skills:
-    - name: Symfony
+    - name: Symfony - Professionnel
       logo: /images/competences-techniques/symfony/featured-image.svg
       summary: Symfony est un framework PHP open-source et flexible pour le développement d'applications web.
       url: /posts/competences-techniques/symfony
 
-    - name: React
+    - name: React - Professionnel
       logo: /images/competences-techniques/react/featured-image.png
       summary: React est une bibliothèque JavaScript open-source créée par Facebook pour le développement d'interfaces utilisateur interactives et dynamiques.
       url: posts/competences-techniques/react
 
-    - name: MySQL
+    - name: MySQL - Professionnel
       logo: /images/competences-techniques/mysql/featured-image.png
       summary: MySQL est un système de gestion de base de données relationnelle open-source.
       url: /posts/competences-techniques/mysql
 
-    - name: Docker
+    - name: Docker - Initié
       logo: /images/competences-techniques/docker/featured-image.svg
       summary: Docker est une plateforme open-source qui permet de créer, déployer et exécuter des applications dans des conteneurs logiciels.
       url: /posts/competences-techniques/docker
 
-    - name: React Native
+    - name: React Native - Professionnel
       logo: /images/competences-techniques/react-native/featured-image.png
       summary: React Native est un framework open-source développé par Facebook pour créer des applications mobiles pour iOS et Android en utilisant JavaScript et la bibliothèque React.
       url: posts/competences-techniques/react-native

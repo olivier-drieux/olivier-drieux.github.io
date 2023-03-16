@@ -1,5 +1,5 @@
 section:
-    name: Présentation # Title of section (default: "")
+    name: Mon parcours # Title of section (default: "")
     id: about # url id/slug of section *Required*
     weight: 1 # Order to display section in (default: alphabetical followed by weight)
     enable: true # Boolean to determine if this section is enabled (default: false)

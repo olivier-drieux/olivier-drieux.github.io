@@ -1,7 +1,7 @@
 # section information
 section:
-    name: Parcours
-    id: parcours
+    name: Formations
+    id: formations
     weight: 3
     enable: true
     showOnNavbar: false
@@ -11,11 +11,13 @@ section:
 
 degrees:
     - name: Expert en Ingénierie du développement d'applications
+      post: /posts/formations/intech
       icon: fa-graduation-cap
       timeframe: 2018-2023
       institution:
-          name: Groupe AEN
-          url: 'https://www.groupe-aen.info/'
+          name: École intech
+          url: https://www.groupe-aen.info/intech/
+          logo: /images/formations/intech/logo.png
       takenCourses:
           collapseAfter: 5
           courses:
@@ -26,11 +28,13 @@ degrees:
               - name: Développement Java 2 Entreprise Edition
 
     - name: BTS informatique et réseaux pour l'industrie et les services techniques
+      post: /posts/formations/kastler
       icon: fa-university
       timeframe: 2013-2015
       institution:
           name: Lycée Alfred Kastler
-          url: 'https://www.lyceekastler.fr/'
+          url: https://www.lyceekastler.fr/
+          logo: /images/formations/kastler/logo.png
       takenCourses:
           collapseAfter: 3
           courses:
@@ -39,8 +43,10 @@ degrees:
               - name: Mathématiques
 
     - name: Baccalauréat scientifique - Sciences et technologies de l'industrie et du développement durable
+      post: /posts/formations/jb-debaudre
       icon: fa-school
       timeframe: 2010-2013
       institution:
-          name: Lycée Alfred Kastler
-          url: 'https://www.lyceekastler.fr/'
+          name: Lycée Jean-Baptiste de Baudre
+          url: https://www.lyceekastler.fr/
+          logo: /images/formations/jb-debaudre/logo.png

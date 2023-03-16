@@ -7,27 +7,27 @@ section:
     template: sections/skills.html # allows you to point to a specific template.
 
 skills:
-    - name: Adaptabilité
+    - name: Adaptabilité - Professionnel
       logo: /images/competences-humaines/adaptabilite/featured-image.png
       summary: L'adaptabilité est la capacité à s'adapter à de nouveaux outils, technologies, environnements ou exigences de projet.
       url: /posts/competences-humaines/adaptabilite
 
-    - name: Analyse des besoins
+    - name: Analyse des besoins - Professionnel
       logo: /images/competences-humaines/analyse-des-besoins/featured-image.png
       summary: L'analyse des besoins est la capacité à comprendre les exigences et les attentes des clients et des utilisateurs finaux en matière de fonctionnalités et d'expérience utilisateur pour un projet donné.
       url: /posts/competences-humaines/analyse-des-besoins
 
-    - name: Autonomie
+    - name: Autonomie - Professionnel
       logo: /images/competences-humaines/autonomie/featured-image.png
       summary: L'autonomie est la capacité à travailler de manière indépendante et à prendre des décisions judicieuses sans supervision constante.
       url: /posts/competences-humaines/autonomie
 
-    - name: Gestion de projet
+    - name: Gestion de projet - Initié
       logo: /images/competences-humaines/gestion-de-projet/featured-image.png
       summary: La gestion de projet est la capacité d'un développeur à planifier, organiser, coordonner et contrôler les activités d'un projet dans les délais et les budgets impartis.
       url: /posts/competences-humaines/gestion-de-projet
 
-    - name: Travail en équipe
+    - name: Travail en équipe - Professionnel
       logo: /images/competences-humaines/travail-en-equipe/featured-image.png
       summary: Le travail en équipe est la capacité à collaborer avec d'autres membres de l'équipe pour atteindre des objectifs communs.
       url: /posts/competences-humaines/travail-en-equipe

@@ -7,3 +7,13 @@ openGraph:
   description: Portfolio d'Olivier DRIEUX
   image: https://olivier-drieux.github.io/images/pdp.jpg
   url: https://olivier-drieux.github.io/
+
+customMenus:
+- name: Contact
+  url: /#footer
+  # specify whether to hide the menu item from top navbar or not.
+  hideFromNavbar: false
+  # specify whether to show the menu item in footer or not.
+  # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
+  showOnFooter: false
+  
