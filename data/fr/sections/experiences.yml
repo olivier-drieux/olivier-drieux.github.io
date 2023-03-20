@@ -9,6 +9,7 @@ section:
 experiences:
     - company:
           name: Linkweb
+          post: /posts/experiences/linkweb
           url: "https://linkweb.fr"
           location: Agen - Nouvelle Aquitaine
           # company overview
@@ -25,6 +26,7 @@ experiences:
 
     - company:
           name: onepoint
+          post: /posts/experiences/onepoint
           url: "https://www.groupeonepoint.com/fr/"
           location: Bordeaux
           overview: OnePoint est une entreprise de services numériques qui offre des solutions technologiques et des services de conseil aux entreprises.
@@ -37,6 +39,7 @@ experiences:
 
     - company:
           name: Start.in'tech
+          post: /posts/experiences/start-in-tech
           location: Agen
           overview: Start.in'tech est une association proposant des projets de développement rémunérés aux étudiants.
       positions:
@@ -50,6 +53,7 @@ experiences:
 
     - company:
           name: Battlesquad
+          post: /posts/experiences/battlesquad
           location: Agen
           overview: Battlesquad est une association proposant ses services dans l'organisation de tournois de jeux-vidéos en ligne.
       positions:
@@ -64,6 +68,7 @@ experiences:
 
     - company:
           name: Mètre Cube
+          post: /posts/experiences/metre-cube
           url: https://www.metre-cube.com/
           location: Agen
           overview: Mètre Cube a pour mission d'apporter des solutions pour la modification ou la création de vos aménagements extérieurs ainsi que le terrassement pour de futures constructions ou encore la gestion de votre assainissement.
@@ -77,6 +82,7 @@ experiences:
 
     - company:
           name: CGI
+          post: /posts/experiences/cgi
           location: Agen
           overview: CGI est une entreprise de services numériques qui offre des solutions technologiques et des services de conseil aux entreprises.
       positions:
