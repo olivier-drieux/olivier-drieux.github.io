@@ -5,6 +5,12 @@ categories: experiences
 hero: featured-image.jpg
 theme: Toha
 description: Mon expérience chez Linkweb
+menu:
+  sidebar:
+    name: Linkweb
+    identifier: linkweb
+    parent: experiences
+    weight: 1
 ---
 
 ## L'enteprise

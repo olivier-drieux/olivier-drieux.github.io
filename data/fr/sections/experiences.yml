@@ -10,7 +10,7 @@ experiences:
     - company:
           name: Linkweb
           post: /posts/experiences/linkweb
-          url: "https://linkweb.fr"
+          url: 'https://linkweb.fr'
           location: Agen - Nouvelle Aquitaine
           # company overview
           overview: Linkweb est une entreprise spécialisée dans le développement de solutions digitales pour les entreprises.
@@ -27,7 +27,7 @@ experiences:
     - company:
           name: onepoint
           post: /posts/experiences/onepoint
-          url: "https://www.groupeonepoint.com/fr/"
+          url: 'https://www.groupeonepoint.com/fr/'
           location: Bordeaux
           overview: OnePoint est une entreprise de services numériques qui offre des solutions technologiques et des services de conseil aux entreprises.
       positions:
@@ -91,5 +91,5 @@ experiences:
             end: Juillet 2018
             responsibilities:
                 - Analyser et développer les besoins d'un client via un cahier des charges.
-                - "Déterminer les besoins du client en direct: déplacements professionnels à Paris."
+                - 'Déterminer les besoins du client en direct: déplacements professionnels à Paris.'
                 - Utiliser la méthode agile dans les domaines informatiques TMA et BI.

@@ -1,7 +1,7 @@
-baseURL: "https://olivier-drieux.github.io/"
-languageCode: "fr-FR"
-title: "Olivier Drieux"
-theme: "toha"
+baseURL: 'https://olivier-drieux.github.io/'
+languageCode: 'fr-FR'
+title: 'Olivier Drieux'
+theme: 'toha'
 
 defaultContentLanguage: fr
 
@@ -13,7 +13,7 @@ outputs:
 
 # Site parameters
 params:
-    background: "images/background.jpg"
+    background: 'images/background.jpg'
     logo:
         main: images/pdp.jpg
         inverted: images/pdp.jpg
@@ -30,7 +30,7 @@ params:
         portfolio:
             enable: true
         blog:
-            enable: false
+            enable: true
             # Share post on different social media
             shareButtons:
                 facebook: true

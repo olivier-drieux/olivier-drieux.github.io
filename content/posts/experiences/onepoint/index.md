@@ -5,6 +5,12 @@ categories: experiences
 hero: featured-image.jpg
 theme: Toha
 description: Mon expérience chez onepoint
+menu:
+  sidebar:
+    name: onepoint
+    identifier: onepoint
+    parent: experiences
+    weight: 2
 ---
 
 ## L'entreprise

@@ -11,7 +11,6 @@ tags: [
     "HTML",
     "CSS",
 ]
-categories: realisations
 hero: /images/realisations/battlesquad/featured-image.png
 theme: Toha
 description: Compétence Symfony
@@ -25,7 +24,7 @@ menu:
 
 ## Le projet
 
-L'association **Battlesquad** a été créée en août 2019 avec pour objectif de promouvoir et de partager le **savoir-faire** dans le domaine de la **compétition de jeux vidéo** en proposant un outil de **gestion de tournoi** pour les organisations d’évènements, ainsi qu'un **site web** pour divertir la communauté.
+L'association **Battlesquad** a été créée en août 2019 avec pour objectif de promouvoir et de partager le **savoir-faire** dans le domaine de la **compétition de jeux vidéo** en proposant un outil de **gestion de tournoi** pour les organisations d'évènements, ainsi qu'un **site web** pour divertir la communauté.
 
 Les technologies utilisées pour développer le **site web** étaient **PHP procédural**, **HTML/CSS**, **Bootstrap** et **MySQL**, permettant la création de fonctionnalités telles que l'**interface de connexion et d'inscription** pour les utilisateurs, la **création d'équipes**, l'invitation d'autres utilisateurs dans une équipe, la possibilité de lister les **tournois à venir ou passés**, et plus encore.
 Un **système de droits d'utilisateurs** a été mis en place pour faciliter la gestion de l'association.
