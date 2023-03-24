@@ -3,6 +3,6 @@ title: Réalisations
 menu:
   sidebar:
     name: Réalisations
-    identifier: realisations
+    identifier: rea-realisations
     weight: 30
 ---

@@ -8,7 +8,7 @@ theme: Toha
 menu:
   sidebar:
     name: Adaptabilité
-    identifier: adaptabilite
+    identifier: ch-adaptabilite
     parent: competences-humaines
     weight: 1
 ---

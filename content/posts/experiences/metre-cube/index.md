@@ -8,7 +8,7 @@ description: Mon expérience chez Mètre Cube
 menu:
   sidebar:
     name: Mètre Cube
-    identifier: metre-cube
+    identifier: exp-metre-cube
     parent: experiences
     weight: 5
 ---

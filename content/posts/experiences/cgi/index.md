@@ -8,7 +8,7 @@ description: Mon expérience chez CGI
 menu:
   sidebar:
     name: CGI
-    identifier: cgi
+    identifier: exp-cgi
     parent: experiences
     weight: 6
 ---

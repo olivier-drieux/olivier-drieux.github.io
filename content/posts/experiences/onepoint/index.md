@@ -8,7 +8,7 @@ description: Mon expérience chez onepoint
 menu:
   sidebar:
     name: onepoint
-    identifier: onepoint
+    identifier: exp-onepoint
     parent: experiences
     weight: 2
 ---

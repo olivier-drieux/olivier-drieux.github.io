@@ -8,7 +8,7 @@ description: Mon expérience chez Battlesquad
 menu:
   sidebar:
     name: Battlesquad
-    identifier: battlesquad
+    identifier: exp-battlesquad
     parent: experiences
     weight: 4
 ---

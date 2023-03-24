@@ -17,7 +17,7 @@ description: Compétence Symfony
 menu:
     sidebar:
         name: Battlesquad
-        identifier: battlesquad
+        identifier: rea-battlesquad
         parent: realisations
         weight: 500
 ---

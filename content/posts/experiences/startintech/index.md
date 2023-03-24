@@ -8,7 +8,7 @@ description: Mon expérience chez Start.in'tech
 menu:
   sidebar:
     name: Start.in'tech
-    identifier: startintech
+    identifier: exp-startintech
     parent: experiences
     weight: 3
 ---

@@ -17,7 +17,7 @@ description: Compétence Symfony
 menu:
   sidebar:
     name: Symfony
-    identifier: symfony
+    identifier: ct-symfony
     parent: competences-techniques
     weight: 1
 ---
