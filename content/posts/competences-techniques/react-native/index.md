@@ -4,20 +4,29 @@ date: 2023-01-01
 tags: ["react native","multi-plateforme","javascript","typescript","native","mobile","application","ios","android","application mobile","application multi-plateforme"]
 categories: competences-techniques
 image: "/images/competences-techniques/react-native/featured-image.png"
+menu:
+  sidebar:
+    name: React Native
+    identifier: ct-react-native
+    parent: competences-techniques
+    weight: 2
 ---
 
-# React Native
+## Définition
+React Native est un framework open-source développé par Facebook pour la création d'applications mobiles multi-plateformes. Ce framework permet aux développeurs de créer des applications mobiles pour iOS et Android en utilisant le langage de programmation JavaScript. Il permet de développer des applications mobiles performantes et réactives tout en réduisant le temps de développement et en économisant des ressources.
+[]
 
-React Native est une compétence qui me permet de développer des applications multi-plateformes. Cela signifie que je peux créer une application qui fonctionne à la fois sur iOS et Android en utilisant un seul code source. Cette compétence est particulièrement utile dans un contexte professionnel où il est nécessaire de développer des applications pour différents systèmes d'exploitation.
+## Mon expérience
+J'ai récemment eu l'opportunité de développer une application mobile multi-plateforme avec React Native pour faciliter le travail des conducteurs et conductrices de travaux en regroupant les parties prenantes sur une seule application. Cette application contient 3 interfaces utilisateurs pour chaque partie prenante : les artisans, les clients et les conducteurs de travaux.
 
-De nombreuses entreprises utilisent React Native pour développer des applications internes ou pour leurs clients. Par exemple, Facebook utilise React Native pour développer son application, et d'autres entreprises comme Airbnb, Tesla et Uber ont également adopté cette technologie pour leurs propres applications.
+Le développement de cette application m'a permis de découvrir les avantages de React Native. En utilisant le langage de programmation JavaScript, j'ai pu développer une application multi-plateforme pour iOS et Android avec un code unique. Cela m'a permis de réduire considérablement le temps de développement et de limiter les ressources nécessaires pour la création de l'application. J'ai également apprécié la richesse de la communauté React Native, qui m'a permis de trouver rapidement des solutions à mes problèmes et de mener à bien mon projet.
+[Capture d'écran de l'application](/interface-documents.png "Capture d'écran de l'application")
 
-![Classement de React Native dans “Technologie la plus populaire” dans Stack Overflow Survey 2021.](survey.png)
+## Retour d'expérience
+Cette expérience m'a permis de développer de nouvelles compétences en matière de développement d'applications mobiles multi-plateformes avec React Native. J'ai appris à utiliser les outils et les composants de React Native, ainsi que les meilleures pratiques de développement pour assurer la qualité et la performance de l'application.
 
-J'ai moi-même utilisé React Native pour développer une application de gestion de projet de construction qui regroupe les différentes parties prenantes (artisans, clients et conducteurs de travaux) sur une seule application. Cela a permis de simplifier la communication et la coordination entre les différentes parties prenantes, améliorant ainsi l'efficacité et réduisant les risques de retard ou de dépassement de budget.
+J'ai également appris l'importance de la compréhension des besoins des utilisateurs pour la conception de l'application. En travaillant avec une conductrice de travaux, j'ai compris l'importance de regrouper les parties prenantes d'un projet de construction sur une seule application pour faciliter la communication et la gestion des projets.
 
-Mon niveau de maîtrise de React Native est assez élevé, je suis capable de développer des fonctionnalités avancées et de résoudre les problèmes courants. Cependant, il y a encore une marge de progression, car React Native n'est pas une technologie qui convient à tous les cas d'utilisation.
+Enfin, cette expérience m'a permis de développer une meilleure compréhension des avantages et des limites de React Native. Bien que React Native soit une technologie puissante pour le développement d'applications mobiles multi-plateformes, il peut y avoir des limites en termes de performance et de compatibilité avec certains appareils. Il est donc important de comprendre les avantages et les limites de cette technologie pour choisir la meilleure solution pour un projet donné.
 
-Cette compétence est importante pour mon profil car elle me permet de développer des applications multi-plateformes efficacement. J'ai acquis cette compétence assez rapidement en me formant en autodidacte, mais je pense qu'il est toujours important de continuer à se perfectionner en suivant des formations et en lisant la documentation.
-
-Actuellement je n'ai pas de formation en cours mais je compte poursuivre mon apprentissage de cette compétence pour être à jour avec les dernières tendances et pour continuer à améliorer mes compétences. En termes de projet professionnel, je souhaite continuer à utiliser React Native pour développer des applications efficaces pour les entreprises et les clients.
+En conclusion, mon expérience avec React Native a été très enrichissante et m'a permis de développer de nouvelles compétences en matière de développement d'applications mobiles multi-plateformes. Cette expérience m'a également permis de comprendre l'importance de la compréhension des besoins des utilisateurs et de la gestion de projet pour le développement d'applications performantes et efficaces.

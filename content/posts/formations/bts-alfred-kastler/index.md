@@ -1,10 +1,16 @@
 ---
-title: Lycée Alfred Kastler
+title: BTS IRIS
 date: 2023-01-01
 categories: formations
 hero: feature_image.jpg
 theme: Toha
 description: Formation Alfred Kastler
+menu:
+  sidebar:
+    name: BTS IRIS
+    identifier: formation-bts-alfred-kastler
+    parent: formations
+    weight: 2
 ---
 
 Le BTS IRIS (Informatique et Réseaux pour l'Industrie et les Services techniques) est une formation de niveau Bac+2 qui vise à former des techniciens capables de concevoir, mettre en œuvre et maintenir des systèmes informatiques et de communication pour les entreprises et les industries.

@@ -1,10 +1,16 @@
 ---
-title: École intech
+title: Expert en ingénierie du logiciel RNCP n° 35419
 date: 2023-01-01
 categories: formations
 hero: featured-image.jpg
 theme: Toha
-description: Formation intech
+description: Formation école IN'TECH
+menu:
+  sidebar:
+    name: Formation école IN'TECH
+    identifier: formation-ingenieur-intech
+    parent: formations
+    weight: 1
 ---
 
 ## L'école

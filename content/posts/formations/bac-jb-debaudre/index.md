@@ -1,10 +1,16 @@
 ---
-title: Lycée Jean-Baptiste Debaudre
+title: BAC STI2D SIN
 date: 2023-01-01
 categories: formations
-hero: feature_image.jpg
+hero: featured-image.png
 theme: Toha
-description: Formation Jean-Baptiste Debaudre
+description: Formation lycée Jean-Baptiste Debaudre
+menu:
+  sidebar:
+    name: BAC STI2D SIN
+    identifier: bac-jb-debaudre
+    parent: formations
+    weight: 3
 ---
 
 Le BAC STI2D SIN (Sciences et Technologies de l'Industrie et du Développement Durable - Systèmes d'Information et Numérique) est une filière scientifique et technologique qui se concentre sur les technologies de l'information et de la communication ainsi que sur le développement durable. Voici un résumé des matières principales du programme de cette filière :

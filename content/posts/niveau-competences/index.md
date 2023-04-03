@@ -2,7 +2,7 @@
 title: Les niveaux de compétences
 date: 2023-01-01
 categories: formations
-hero: featured_image.jpeg
+hero: featured-image.jpeg
 theme: Toha
 description: Explication des niveaux de compétences
 ---

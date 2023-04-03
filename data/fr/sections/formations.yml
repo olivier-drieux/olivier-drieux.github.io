@@ -11,7 +11,7 @@ section:
 
 degrees:
     - name: Expert en Ingénierie du développement d'applications
-      post: /posts/formations/intech
+      post: /posts/formations/ingenieur-intech
       icon: fa-graduation-cap
       timeframe: 2018-2023
       institution:
@@ -28,7 +28,7 @@ degrees:
               - name: Développement Java 2 Entreprise Edition
 
     - name: BTS informatique et réseaux pour l'industrie et les services techniques
-      post: /posts/formations/kastler
+      post: /posts/formations/bts-alfred-kastler
       icon: fa-university
       timeframe: 2013-2015
       institution:
@@ -43,7 +43,7 @@ degrees:
               - name: Mathématiques
 
     - name: Baccalauréat scientifique - Sciences et technologies de l'industrie et du développement durable
-      post: /posts/formations/jb-debaudre
+      post: /posts/formations/bac-jb-debaudre
       icon: fa-school
       timeframe: 2010-2013
       institution:
