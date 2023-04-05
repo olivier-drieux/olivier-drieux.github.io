@@ -3,7 +3,7 @@ title: 'Créer et déployer un site WordPress en SSH avec Docker'
 date: 2023-01-01
 tags: []
 categories: realisations
-image: /images/realisations/docker-wordpress-ssh/featured-image.png
+image: /images/realisations/docker-wordpress-ssh/icon.png
 ---
 
 # Présentation

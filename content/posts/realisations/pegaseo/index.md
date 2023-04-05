@@ -3,7 +3,7 @@ title: Pegaseo, une application web pour le référencement
 date: 2023-01-01
 tags: ["react", "javascript", "typescript", "web", "application web"]
 categories: realisations
-image: /images/realisations/pegaseo-application-web/featured-image.svg
+image: /images/realisations/pegaseo-application-web/icon.svg
 ---
 
 <!-- Nous avons développé une application web interne qui permettra plus tard de gérer le réseau de sites web "Private blog networks" (PBN) de Linkweb et de proposer des prestations de référencement à des clients. Pour l'instant, cette application est utilisée par les employés de Linkweb pour gérer le référencement des sites clients en rédigeant et publiant des articles optimisés pour le référencement SEO.

@@ -3,7 +3,7 @@ title: React
 date: 2023-01-01
 tags: ["react","javascript","typescript","web","application web"]
 categories: competences-techniques
-image: /images/competences-techniques/react/featured-image.png
+image: /images/competences-techniques/react/icon.png
 ---
 
 React est une librairie Javascript et Typescript développée par Facebook depuis 2013 qui permet de construire des interfaces utilisateurs sur le web.

@@ -12,89 +12,51 @@ section:
 # your projects
 projects:
     - name: BattleSquad, application web
-      logo: /images/realisations/battlesquad/featured-image.png
+      logo: /images/realisations/battlesquad/icon.png
       url: /posts/realisations/battlesquad
       role: Développeur
-      timeline: "Mai 2019 - Janvier 2021"
+      timeline: 'Mai 2019 - Janvier 2021'
       summary: Battlesquad est une plateforme permettant la gestion de tournois de jeux-vidéos en ligne.
-      tags:
-          [
-              "Gestion de projet",
-              "Autonomie",
-              "Adaptabilité",
-              "Travail en équipe",
-              "PHP",
-              "MySQL",
-              "HTML",
-              "CSS",
-          ]
+      tags: ['Gestion de projet', 'Autonomie', 'Adaptabilité', 'Travail en équipe', 'PHP', 'MySQL', 'HTML', 'CSS']
 
     - name: Docker WordPress SSH
-      logo: /images/realisations/docker-wordpress-ssh/featured-image.svg
+      logo: /images/realisations/docker-wordpress-ssh/icon.svg
       url: /posts/realisations/docker-wordpress-ssh
       role: Développeur
       summary: Une image de conteneur Docker pour faciliter le déploiement et les tests de fonctionnalités sur des sites web WordPress en environnement local.
-      tags:
-          [
-              "Autonomie",
-              "Adaptabilité",
-              "Travail en équipe",
-              "Docker",
-              "WordPress",
-              "SSH",
-          ]
+      tags: ['Autonomie', 'Adaptabilité', 'Travail en équipe', 'Docker', 'WordPress', 'SSH']
 
     - name: Théâtre du Jour, application web
-      logo: /images/realisations/theatre-du-jour/featured-image.png
+      logo: /images/realisations/theatre-du-jour/icon.png
       url: /posts/realisations/theatre-du-jour
       role: Développeur
-      timeline: "Avril 2020 - Mars 2021"
+      timeline: 'Avril 2020 - Mars 2021'
       summary: Application web permettant de gérer les élèves, artises, intervenants, compagnies et structures de l'école de théâtre.
       tags:
           [
-              "Gestion de projet",
-              "Autonomie",
-              "Analyse des besoins",
-              "Travail en équipe",
-              "Adaptabilité",
-              "Symfony",
-              "MySQL",
-              "HTML",
-              "CSS",
+              'Gestion de projet',
+              'Autonomie',
+              'Analyse des besoins',
+              'Travail en équipe',
+              'Adaptabilité',
+              'Symfony',
+              'MySQL',
+              'HTML',
+              'CSS',
           ]
 
     - name: OLAU, application multi-plateforme
-      logo: /images/realisations/olau/featured-image.png
+      logo: /images/realisations/olau/icon.png
       url: /posts/realisations/olau
       role: Développeur
-      timeline: "Janvier 2022 - Maintenant"
+      timeline: 'Janvier 2022 - Maintenant'
       summary: Application web, Android et IOS permettant de faciliter le métier des conducteurs et conductrices de travaux.
-      tags:
-          [
-              "Gestion de projet",
-              "Autonomie",
-              "Analyse des besoins",
-              "Adaptabilité",
-              "Symfony",
-              "MySQL",
-              "HTML",
-              "CSS",
-          ]
+      tags: ['Gestion de projet', 'Autonomie', 'Analyse des besoins', 'Adaptabilité', 'Symfony', 'MySQL', 'HTML', 'CSS']
 
     - name: Pegaseo, application web
-      logo: /images/realisations/pegaseo/featured-image.svg
+      logo: /images/realisations/pegaseo/icon.svg
       url: /posts/realisations/pegaseo
       role: Développeur
-      timeline: "Septembre 2021 - Maintenant"
+      timeline: 'Septembre 2021 - Maintenant'
       summary: Application web et API permettant de faciliter le travail de l'entreprise Linkweb.
-      tags:
-          [
-              "Autonomie",
-              "Adaptabilité",
-              "Travail en équipe",
-              "Symfony",
-              "React",
-              "MySQL",
-              "HTML",
-              "CSS",
-          ]
+      tags: ['Autonomie', 'Adaptabilité', 'Travail en équipe', 'Symfony', 'React', 'MySQL', 'HTML', 'CSS']

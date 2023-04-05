@@ -13,13 +13,13 @@ tags: [
 ]
 hero: /images/realisations/battlesquad/featured-image.png
 theme: Toha
-description: Compétence Symfony
+description: Réalisation Battlesquad
 menu:
     sidebar:
         name: Battlesquad
         identifier: rea-battlesquad
         parent: realisations
-        weight: 500
+        weight: 2
 ---
 
 ## Le projet

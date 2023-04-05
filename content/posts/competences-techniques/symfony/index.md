@@ -11,7 +11,7 @@ tags: [
     "HTML",
     "CSS",
 ]
-hero: /images/competences-techniques/symfony/symfony.jpg
+hero: /images/competences-techniques/symfony/featured-image.jpg
 theme: Toha
 description: Compétence Symfony
 menu:
