@@ -13,14 +13,20 @@ menu:
 ---
 
 ## Définition
-React Native est un framework open-source développé par Facebook pour la création d'applications mobiles multi-plateformes. Ce framework permet aux développeurs de créer des applications mobiles pour iOS et Android en utilisant le langage de programmation JavaScript. Il permet de développer des applications mobiles performantes et réactives tout en réduisant le temps de développement et en économisant des ressources.
-[]
+React Native est un framework open-source développé par Facebook pour la création d'applications mobiles multi-plateformes. Ce framework permet aux développeurs de créer des applications mobiles pour iOS et Android en utilisant le langage de programmation JavaScript. Il permet de développer des applications mobiles performantes et réactives tout en réduisant le temps de développement et en économisant des ressources.<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
+  <img onclick="window.open('/images/competences-techniques/react-native/survey.png')" src="/images/competences-techniques/react-native/survey.png" width="20%" style="align-self: center; cursor: pointer;" alt="Survey" title="Cliquer pour zoomer" />
+  <i>Survey</i>
+</div>
 
 ## Mon expérience
 J'ai récemment eu l'opportunité de développer une application mobile multi-plateforme avec React Native pour faciliter le travail des conducteurs et conductrices de travaux en regroupant les parties prenantes sur une seule application. Cette application contient 3 interfaces utilisateurs pour chaque partie prenante : les artisans, les clients et les conducteurs de travaux.
 
 Le développement de cette application m'a permis de découvrir les avantages de React Native. En utilisant le langage de programmation JavaScript, j'ai pu développer une application multi-plateforme pour iOS et Android avec un code unique. Cela m'a permis de réduire considérablement le temps de développement et de limiter les ressources nécessaires pour la création de l'application. J'ai également apprécié la richesse de la communauté React Native, qui m'a permis de trouver rapidement des solutions à mes problèmes et de mener à bien mon projet.
-[Capture d'écran de l'application](/interface-documents.png "Capture d'écran de l'application")
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
+  <img onclick="window.open('/images/competences-techniques/react-native/interface-documents.png')" src="/images/competences-techniques/react-native/interface-documents.png" width="20%" style="align-self: center; cursor: pointer;" alt="Capture d'écran de l'application" title="Cliquer pour zoomer" />
+  <i>Capture d'écran de l'application</i>
+</div>
 
 ## Retour d'expérience
 Cette expérience m'a permis de développer de nouvelles compétences en matière de développement d'applications mobiles multi-plateformes avec React Native. J'ai appris à utiliser les outils et les composants de React Native, ainsi que les meilleures pratiques de développement pour assurer la qualité et la performance de l'application.
