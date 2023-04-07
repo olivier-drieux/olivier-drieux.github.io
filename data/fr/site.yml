@@ -2,18 +2,17 @@ copyright: © 2023 Copyright.
 description: Portfolio de Olivier DRIEUX, développeur web fullstack.
 
 openGraph:
-  title: Portfolio d'Olivier DRIEUX
-  type: website
-  description: Portfolio d'Olivier DRIEUX
-  image: https://olivier-drieux.github.io/images/pdp.jpg
-  url: https://olivier-drieux.github.io/
+    title: Portfolio d'Olivier DRIEUX
+    type: website
+    description: Portfolio d'Olivier DRIEUX
+    image: https://olivier-drieux.github.io/images/DRIEUX_Olivier.JPG
+    url: https://olivier-drieux.github.io/
 
 customMenus:
-- name: Contact
-  url: /#footer
-  # specify whether to hide the menu item from top navbar or not.
-  hideFromNavbar: false
-  # specify whether to show the menu item in footer or not.
-  # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
-  showOnFooter: false
-  
+    - name: Contact
+      url: /#footer
+      # specify whether to hide the menu item from top navbar or not.
+      hideFromNavbar: false
+      # specify whether to show the menu item in footer or not.
+      # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
+      showOnFooter: false

@@ -15,9 +15,9 @@ outputs:
 params:
     background: 'images/background.jpg'
     logo:
-        main: images/pdp.jpg
-        inverted: images/pdp.jpg
-        favicon: images/pdp.jpg
+        main: images/DRIEUX_Olivier.JPG
+        inverted: images/DRIEUX_Olivier.JPG
+        favicon: images/DRIEUX_Olivier.JPG
     analytics:
         enabled: false
     newsletter:
