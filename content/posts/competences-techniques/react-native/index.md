@@ -24,7 +24,7 @@ Dans un contexte professionnel, la maîtrise de React Native peut être très ut
 
 Une actualité récente et que j'attendais impatiemment en ce qui concerne React Native est la sortie de la [version 0.71](https://reactnative.dev/blog/2023/01/12/version-071#simplifying-layouts-with-flexbox-gap), qui inclut une fonctionnalité très attendue : le support des gap dans les styles Flexbox. Cette nouvelle fonctionnalité permet de créer des interfaces utilisateur plus souples et plus performantes grâce à une gestion plus précise des marges et des espacements.
 
-## Réalisation
+## Mon expérience
 J'ai créé une application multi-plateforme avec React Native pour faciliter le travail des conducteurs et conductrices de travaux. Cette application regroupe les parties prenantes sur une seule plateforme, offrant ainsi une expérience utilisateur fluide et simplifiée pour les artisans, les clients et les conducteurs de travaux.
 
 L'application met à disposition des interfaces utilisateurs spécifiques pour chaque partie prenante, ainsi qu'une interface de connexion commune. Les clients peuvent accéder à un tableau de bord, une interface de gestion des documents, une interface de planning et de communication avec le conducteur de travaux. Les artisans ont un ensemble similaire d'interfaces, mais accèdent uniquement aux projets qui leur sont assignés. L'administrateur dispose d'interfaces dédiées pour la gestion des données de l'application.
@@ -54,6 +54,6 @@ Je suis déterminé à améliorer mes compétences en développement d'applicati
 
 - Soyez patient. L'apprentissage de React Native est un processus continu qui nécessite de la patience et de la persévérance. Ne vous découragez pas si vous rencontrez des difficultés, continuez à travailler et à apprendre, et vous finirez par devenir un développeur React Native expérimenté et confiant.
 
-## Réalisation liée
+## Réalisations liées
 
 - [OLAU]({{< ref "posts/realisations/olau" >}} "OLAU") : réalisation d'une application multi-plateforme avec React Native

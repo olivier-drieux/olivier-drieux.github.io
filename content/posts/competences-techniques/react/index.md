@@ -24,10 +24,12 @@ Dans un contexte professionnel, la maîtrise de React est un **atout majeur** po
 
 Une actualité récente en ce qui concerne React est la sortie de **React v18**, qui introduit une nouvelle fonctionnalité appelée **React Server Components**. Il s'agit d'une évolution majeure pour la création d'applications web **côté serveur avec React**, permettant de générer des composants React côté serveur de manière **asynchrone**, améliorant ainsi la **performance** et l'**expérience utilisateur**.
 
-## Réalisation
+## Mon expérience
 J'ai eu l'opportunité de mettre en pratique mes compétences en React lors de mon alternance chez [**Linkweb**](https://linkweb.fr/). J'ai participé au développement d'une application web nommée ["Pegaseo"](/posts/realisations/pegaseo), développée entièrement avec React. J'ai commencé le projet avec peu de connaissances dans cette bibliothèque, mais j'ai rapidement monté en compétences et j'ai pu être **opérationnel** pour le projet en peu de temps.
 
 Pendant mon **apprentissage en entreprise**, j'ai créé un **système de pagination automatique** pour les pages qui affichent des **informations dynamiques** de l'application.
+<details><summary><strong>Cliquer pour voir le code</strong></summary>
+
 ```tsx
 export default function usePagination<TData = unknown>(props: IUsePaginationProps<TData>): IUsePaginationReturn<TData> {
     // Use of react hooks
@@ -68,7 +70,10 @@ export default function usePagination<TData = unknown>(props: IUsePaginationProp
     return { queryResult, meta, paginationElement };
 }
 ```
-Ce code est un [**hook React personnalisé**](https://fr.reactjs.org/docs/hooks-intro.html) qui permet, grâce aux options données avec le paramètres `props`, de définir une requête [react-query](https://react-query.tanstack.com/) et de laisser au hook la **résponsabilité** de gérer la **pagination** de la page. Le hook renvoie un object contenant le résultat de la requête, les métadonnées de la pagination et un élément de pagination React. Il est important de noter que le hook utilise une **fonction de [debounce](https://www.techtarget.com/whatis/definition/debouncing#:~:text=Debouncing%20is%20removing%20unwanted%20input,hardware%20switches%2C%20programs%20and%20websites.)** pour éviter de mettre à jour la pagination trop souvent, ce qui permet d'éviter des requêtes inutiles.
+
+</details>
+
+Le code ci-dessus est un [**hook React personnalisé**](https://fr.reactjs.org/docs/hooks-intro.html) qui permet, grâce aux options données avec le paramètres `props`, de définir une requête [react-query](https://react-query.tanstack.com/) et de laisser au hook la **résponsabilité** de gérer la **pagination** de la page. Le hook renvoie un object contenant le résultat de la requête, les métadonnées de la pagination et un élément de pagination React. Il est important de noter que le hook utilise une **fonction de [debounce](https://www.techtarget.com/whatis/definition/debouncing#:~:text=Debouncing%20is%20removing%20unwanted%20input,hardware%20switches%2C%20programs%20and%20websites.)** pour éviter de mettre à jour la pagination trop souvent, ce qui permet d'éviter des requêtes inutiles.
 Ce hook permet de **simplifier** le code des composants qui l'utilisent et de **réduire** le nombre de lignes de code. Il permet également de **centraliser** la logique de pagination dans un seul endroit, ce qui facilite la **maintenance** et la **réutilisation** du code.
 
 ## Evolution et autocritique
@@ -94,5 +99,5 @@ En ce qui concerne ma **vitesse d'acquisition** de cette compétence, j'ai pu ap
 - Apprenez à travailler en équipe : dans le monde professionnel, il est souvent nécessaire de travailler en équipe. Apprenez à collaborer avec d'autres développeurs en utilisant des outils de gestion de code tels que Git, et pratiquez les bonnes pratiques de communication pour travailler efficacement en équipe.
 
 
-## Réalisation liée
+## Réalisations liées
 - [Pegaseo](/posts/realisations/pegaseo) : réalisation d'une application web
