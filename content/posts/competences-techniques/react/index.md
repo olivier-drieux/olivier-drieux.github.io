@@ -22,10 +22,10 @@ React est une bibliothèque **JavaScript** **open-source** développée par **Fa
 
 Dans un contexte professionnel, la maîtrise de React est un **atout majeur** pour les développeurs travaillant sur des projets web. En effet, eact est une bibliothèque essentielle pour les développeurs professionnels qui cherchent à créer des **applications web modernes**, **performantes** et **évolutives**, utilisée par de nombreuses **grandes entreprises** telles que **Facebook**, **Instagram**, **Netflix**, **Airbnb**, **Uber**, **Dropbox** et bien d'autres.
 
-Une actualité récente met en avant l'importance de React dans le monde professionnel. En **mars 2021**, **Netflix** a publié un article sur son blog, expliquant comment ils ont amélioré la **performance** de leur application web grâce à React. Ils ont notamment utilisé une technique appelée "**suspense**" pour améliorer le **temps de chargement** de leur page d'accueil, qui a permis d'augmenter le **taux de conversion** des utilisateurs.
+Une actualité récente en ce qui concerne React est la sortie de **React v18**, qui introduit une nouvelle fonctionnalité appelée **React Server Components**. Il s'agit d'une évolution majeure pour la création d'applications web **côté serveur avec React**, permettant de générer des composants React côté serveur de manière **asynchrone**, améliorant ainsi la **performance** et l'**expérience utilisateur**.
 
 ## Réalisation
-J'ai eu l'opportunité de mettre en pratique mes compétences en React lors de mon alternance chez **Linkweb**. J'ai participé au développement d'une application web nommée ["Pegaseo"](/posts/realisations/pegaseo), développée entièrement avec React. J'ai commencé le projet avec peu de connaissances dans cette bibliothèque, mais j'ai rapidement monté en compétences et j'ai pu être **opérationnel** pour le projet en peu de temps.
+J'ai eu l'opportunité de mettre en pratique mes compétences en React lors de mon alternance chez [**Linkweb**](https://linkweb.fr/). J'ai participé au développement d'une application web nommée ["Pegaseo"](/posts/realisations/pegaseo), développée entièrement avec React. J'ai commencé le projet avec peu de connaissances dans cette bibliothèque, mais j'ai rapidement monté en compétences et j'ai pu être **opérationnel** pour le projet en peu de temps.
 
 Pendant mon **apprentissage en entreprise**, j'ai créé un **système de pagination automatique** pour les pages qui affichent des **informations dynamiques** de l'application.
 ```tsx
