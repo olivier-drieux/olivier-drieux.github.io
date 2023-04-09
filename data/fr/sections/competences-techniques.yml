@@ -18,7 +18,7 @@ skills:
       url: posts/competences-techniques/react
 
     - name: MySQL - Expert
-      logo: /images/competences-techniques/mysql/icon.png
+      logo: /images/competences-techniques/mysql/icon.svg
       summary: MySQL est un système de gestion de base de données relationnelle open-source.
       url: /posts/competences-techniques/mysql
 
