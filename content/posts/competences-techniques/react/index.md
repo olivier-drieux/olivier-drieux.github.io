@@ -28,7 +28,7 @@ Une actualité récente met en avant l'importance de React dans le monde profess
 J'ai eu l'opportunité de mettre en pratique mes compétences en React lors de mon alternance chez **Linkweb**. J'ai participé au développement d'une application web nommée ["Pegaseo"](/posts/realisations/pegaseo), développée entièrement avec React. J'ai commencé le projet avec peu de connaissances dans cette bibliothèque, mais j'ai rapidement monté en compétences et j'ai pu être **opérationnel** pour le projet en peu de temps.
 
 Pendant mon **apprentissage en entreprise**, j'ai créé un **système de pagination automatique** pour les pages qui affichent des **informations dynamiques** de l'application.
-```ts
+```tsx
 export default function usePagination<TData = unknown>(props: IUsePaginationProps<TData>): IUsePaginationReturn<TData> {
     // Use of react hooks
     const [meta, setMeta] = React.useState<Partial<IMeta>>({

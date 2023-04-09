@@ -13,7 +13,7 @@ skills:
       url: /posts/competences-techniques/symfony
 
     - name: React - Expert
-      logo: /images/competences-techniques/react/icon.png
+      logo: /images/competences-techniques/react/icon.svg
       summary: React est une bibliothèque JavaScript open-source créée par Facebook pour le développement d'interfaces utilisateur interactives et dynamiques.
       url: posts/competences-techniques/react
 
