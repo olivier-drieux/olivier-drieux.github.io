@@ -9,7 +9,7 @@ menu:
     name: React Native
     identifier: ct-react-native
     parent: competences-techniques
-    weight: 2
+    weight: 3
 ---
 
 ## Définition

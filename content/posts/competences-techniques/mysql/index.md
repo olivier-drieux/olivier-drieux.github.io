@@ -24,7 +24,7 @@ J'ai personnellement eu l'occasion de mettre en œuvre la compétence MySQL dans
 
 J'ai également créé des procédures stockées pour mettre à jour les données de manière 
 automatisée.
-```mysql
+```sql
 CREATE PROCEDURE get_available_product()
 BEGIN
     DECLARE product_id INT;
