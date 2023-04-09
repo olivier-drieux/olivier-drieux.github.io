@@ -17,8 +17,6 @@ MySQL est un système de gestion de base de données relationnelles, largement u
 
 Dans un contexte professionnel, MySQL est utilisé dans de nombreuses entreprises pour stocker et gérer des données de manière efficace et sécurisée. Par exemple, des sites web de commerce électronique peuvent stocker des informations sur les commandes, les clients et les produits dans une base de données MySQL. Des entreprises de logistique peuvent stocker des informations sur les expéditions, les stocks et les fournisseurs. Des applications de gestion de projet peuvent stocker des informations sur les tâches, les ressources et les échéances.
 
-Une actualité récente liée à l'utilisation de MySQL est l'annonce de la version 8.0.23 de MySQL Community Edition en décembre 2020. Cette mise à jour apporte de nouvelles fonctionnalités, des améliorations de performance et des correctifs de bugs, ce qui renforce l'importance de maintenir à jour les systèmes de gestion de base de données.
-
 ## Réalisation
 J'ai personnellement eu l'occasion de mettre en œuvre la compétence MySQL dans le cadre de mon alternance. J'ai participé au développement d'une API où les données étaient stockées dans une base de données MySQL. J'ai effectué une migration des données d'une ancienne version de l'application vers la nouvelle version. Pour cela, j'ai formaté les données en utilisant une requête SELECT, puis j'ai extrait ces données dans un fichier avec la commande `mysqldump`. J'ai par la suite simplement importé les données dans la nouvelle base de données avec la commande `mysql < fichier.sql`.
 
