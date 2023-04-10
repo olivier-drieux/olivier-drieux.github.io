@@ -65,5 +65,5 @@ Dans mon projet professionnel, je souhaite me spécialiser dans le développemen
 - Restez à jour : Symfony est un framework en constante évolution. Restez informé des dernières mises à jour et des nouvelles fonctionnalités pour améliorer votre compétence en Symfony.
 
 ## Réalisations liées
--   [Pegaseo]({{< ref "posts/realisations/pegaseo" >}} "Pegaseo") : réalisation d'une API REST avec Symfony pour la gestion des données d'un site web.
--   [Théâtre du Jour]({{< ref "posts/realisations/theatre-du-jour" >}} "Théâtre du Jour") : réalisation d'un site web pour une école de théâtre avec Symfony et Twig.
+-   [Pegaseo](/posts/realisations/pegaseo) : réalisation d'une API REST avec Symfony pour la gestion des données d'un site web.
+-   [Théâtre du Jour](/posts/realisations/theatre-du-jour) : réalisation d'un site web pour une école de théâtre avec Symfony et Twig.

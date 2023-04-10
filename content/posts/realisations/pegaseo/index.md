@@ -43,8 +43,9 @@ Je suis heureux de souligner que ma **contribution** dans le projet est **signif
 - [Symfony](/posts/competences-techniques/symfony) : l'API de l'application a été développée avec le framework Symfony.
 - [React](/posts/competences-techniques/react) : l'interface utilisateur de l'application a été développée avec le framework React.
 - [MySQL](/posts/competences-techniques/mysql) : la base de données de l'application a été développée avec MySQL.
-- [Adaptabilité](/posts/competences-humaines/adaptabilite) : je me suis adapté aux technologies utilisées pour le développement de l'application.
-- [Autonomie](/posts/competences-humaines/autonomie) : je travaille de manière autonome sur le projet.
-- [Travail en équipe](/posts/competences-humaines/travail-en-equipe) : je travaille avec l'équipe de développement de l'application.
-- [Analyse des besoins](/posts/competences-humaines/analyse-des-besoins) : j'ai participé à l'analyse des besoins des utilisateurs de l'application.
+- [Docker](/posts/competences-techniques/docker) : développement avec un environnement Docker.
+- [Adaptabilité](/posts/competences-humaines/adaptabilite) : formation sur les technologies utilisées pour le développement de l'application.
+- [Autonomie](/posts/competences-humaines/autonomie) : travail de manière autonome sur le projet.
+- [Travail en équipe](/posts/competences-humaines/travail-en-equipe) : travail avec l'équipe de développement de l'application.
+- [Analyse des besoins](/posts/competences-humaines/analyse-des-besoins) : participation à l'analyse des besoins des utilisateurs de l'application.
   

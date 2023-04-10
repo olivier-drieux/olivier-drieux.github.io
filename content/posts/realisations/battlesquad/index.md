@@ -122,8 +122,8 @@ Enfin, l'utilisation d'un framework comme **[Symfony](/posts/competences-techniq
 
 ## Compétences liées
 
--   [MySQL]({{< ref "posts/competences-techniques/mysql" >}} "MySQL") : gestion de la base de données avec des requêtes SQL.
--   [Adaptabilité]({{< ref "posts/competences-humaines/adaptabilite" >}} "Adaptabilité") : nous devions constamment nous adapter aux demandes des clients et aux mises à jour des jeux-vidéos.
--   [Autonomie]({{< ref "posts/competences-humaines/autonomie" >}} "Autonomie") : ce projet a été développé à partir de zéro en dehors du temps de travail.
--   [Gestion de projet]({{< ref "posts/competences-humaines/gestion-de-projet" >}} "Gestion de projet") : j'ai géré la partie développement de l'application tout en participant aux négociations clients et à la gestion des tournois.
--   [Travail en équipe]({{< ref "posts/competences-humaines/travail-en-equipe" >}} "Travail en équipe") : nous nous sommes partagés le développement de l'application avec mon ami.
+-   [MySQL](/posts/competences-techniques/mysql) : la base de données de l'application a été développée avec MySQL.
+-   [Adaptabilité](/posts/competences-humaines/adaptabilite) : adaptation aux demandes des utilisateurs et aux mises à jour des jeux-vidéos.
+-   [Autonomie](/posts/competences-humaines/autonomie) : développement du projet sur mon temps libre.
+-   [Gestion de projet](/posts/competences-humaines/gestion-de-projet) : gestion de la partie développement de l'application tout en participant aux négociations clients et à la gestion des tournois.
+-   [Travail en équipe](/posts/competences-humaines/travail-en-equipe) : partage des développements de l'application avec mon ami.

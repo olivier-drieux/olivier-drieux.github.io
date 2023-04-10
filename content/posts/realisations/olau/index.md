@@ -64,10 +64,10 @@ Malgré l'état d'avancement de l'application, cette expérience m'a permis de d
 En somme, bien que l'application ne soit pas encore fonctionnelle, le projet OLAU reste une **expérience stimulante** qui m'a permis de **développer mes compétences et mes connaissances** dans le développement d'applications multi-plateformes, en travaillant en collaboration avec un client pour répondre à ses besoins et à ses attentes.
 
 ## Compétences liées
--   [React Native]({{< ref "posts/competences-techniques/react-native" >}} "React Native") : développement de l'application avec React Native.
--   [MySQL]({{< ref "posts/competences-techniques/mysql" >}} "MySQL") : gestion de la base de données.
--   [Docker]({{< ref "posts/competences-techniques/docker" >}} "Docker") : développement avec un environnement Docker.
--   [Adaptabilité]({{< ref "posts/competences-humaines/adaptabilite" >}} "Adaptabilité") : veille informatique pour trouver de nouvelles technologies.
--   [Autonomie]({{< ref "posts/competences-humaines/autonomie" >}} "Autonomie") : recherche et développement de l'application.
--   [Analyse des besoins]({{< ref "posts/competences-humaines/analyse-des-besoins" >}} "Analyse des besoins") : analyse des besoins du client.
--   [Gestion de projet]({{< ref "posts/competences-humaines/gestion-de-projet" >}} "Gestion de projet") : gestion du projet avec le client.
+-   [React Native](/posts/competences-techniques/react-native) : l'interface utilisateur de l'application a été développée avec le framework React Native.
+-   [MySQL](/posts/competences-techniques/mysql) : la base de données de l'application a été développée avec MySQL.
+-   [Docker](/posts/competences-techniques/docker) : développement avec un environnement Docker.
+-   [Adaptabilité](/posts/competences-humaines/adaptabilite) : veille informatique pour trouver de nouvelles technologies.
+-   [Autonomie](/posts/competences-humaines/autonomie) : recherche et développement de l'application.
+-   [Analyse des besoins](/posts/competences-humaines/analyse-des-besoins) : analyse des besoins du client.
+-   [Gestion de projet](/posts/competences-humaines/gestion-de-projet) : gestion du projet avec le client.

@@ -55,4 +55,4 @@ Je suis déterminé à améliorer mes compétences en développement d'applicati
 
 ## Réalisations liées
 
-- [OLAU]({{< ref "posts/realisations/olau" >}} "OLAU") : réalisation d'une application multi-plateforme avec React Native
+- [OLAU](/posts/realisations/olau) : réalisation d'une application multi-plateforme avec React Native
