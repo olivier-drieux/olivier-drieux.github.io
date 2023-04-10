@@ -1,5 +1,5 @@
 ---
-title: "Battlesquad : promouvoir la compétition en ligne"
+title: Battlesquad
 date: 2023-01-01
 tags: [
     "Gestion de projet",
@@ -22,6 +22,7 @@ menu:
         weight: 2
 ---
 
+## Battlesquad : promouvoir la compétition en ligne
 **Grand passionnés de jeux-vidéo et de compétitions**, mon ami et moi avons décidé de créer en 2019 **l'association à but non lucratif Battlesquad**. Nous avons voulu mettre en place une **plateforme en ligne** pour organiser des **tournois de jeux vidéo** et promouvoir la **compétition entre joueurs**.
 L'un des principaux enjeux de ce projet était de proposer une solution **innovante** et **fonctionnelle** pour les **organisateurs de tournois** et les **joueurs**, afin d'attirer l'attention des utilisateurs potentiels et générer de l'engagement. Cependant, il existait des risques liés à la **concurrence**, car de nombreux autres **sites web** proposaient déjà des fonctionnalités similaires, ce qui pouvait rendre difficile la différenciation de notre projet. Par ailleurs, le développement d'un **site web** peut s'avérer **complexe** et nécessiter des **ressources importantes** en termes de temps et de budget, ce qui pouvait également compromettre le succès du projet. Enfin, la **sécurité** et la **protection des données personnelles** des utilisateurs constituaient un enjeu majeur pour la crédibilité et la confiance des utilisateurs dans notre projet.
 

@@ -1,5 +1,5 @@
 ---
-title: "Pegaseo : la clé pour un référencement réussi"
+title: Pegaseo
 date: 2023-01-01
 tags: ["react", "javascript", "typescript", "web", "application web"]
 categories: realisations
@@ -12,6 +12,7 @@ menu:
         weight: 3
 ---
 
+## Pegaseo : la clé pour un référencement réussi
 **Pegaseo** est un projet ambitieux élaboré par l’agence **[Linkweb](/posts/experiences/linkweb)** dans le but de faciliter la **gestion** du réseau de sites web “**Private blog networks**” ([PBN](https://fr.semrush.com/blog/pbn-mythes-risques/#que-sont-les-r%C3%A9seaux-de-blogs-priv%C3%A9s)) de l’entreprise. Les **objectifs principaux** de Pegaseo étaient de **simplifier** la **gestion** du réseau de sites web PBN de Linkweb, de fournir des **prestations de référencement** de site web sur le PBN aux clients, et d’**améliorer** la **productivité** et l’**efficacité** des employés de Linkweb responsables de la **gestion des sites web PBN**.
 
 Le projet Pegaseo a été réalisé dans un **contexte de marché** en constante **évolution** du web marketing et du développement web. Les enjeux étaient de rester **compétitif** en proposant des services **innovants**, tout en garantissant la **sécurité** des données et en minimisant les **risques** liés à la complexité technique de l’application.

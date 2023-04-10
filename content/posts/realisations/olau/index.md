@@ -1,5 +1,5 @@
 ---
-title: OLAU, un outil de collaboration pour les projets de construction
+title: OLAU
 date: 2023-01-01
 tags:
     [
@@ -29,6 +29,7 @@ menu:
         weight: 1
 ---
 
+## OLAU, un outil de collaboration pour les projets de construction
 Le projet OLAU est une application mobile destinée à faciliter le travail des conducteurs de travaux, des artisans et des clients impliqués dans la construction de maisons. L'idée de créer cette application est venue de la volonté de regrouper toutes les parties prenantes sur une seule plateforme, afin de leur permettre d'accéder facilement aux informations pertinentes sur le projet de construction.
 
 Pour répondre à ce besoin, j'ai effectué une recherche approfondie pour trouver la technologie la mieux adaptée à ce projet. Étant compétent en JavaScript, j'ai choisi React Native pour développer une application multi-plateforme disponible sur iOS et Android. Cette technologie permet de créer des applications performantes et réactives tout en utilisant des composants réutilisables.
