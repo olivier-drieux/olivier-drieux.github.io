@@ -1,6 +1,5 @@
 ---
 title: MySQL
-tags: []
 categories: competences-techniques
 hero: /images/competences-techniques/mysql/featured-image.svg
 menu:

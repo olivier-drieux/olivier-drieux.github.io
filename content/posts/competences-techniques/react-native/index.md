@@ -1,6 +1,5 @@
 ---
 title: React Native
-tags: ["react native","multi-plateforme","javascript","typescript","native","mobile","application","ios","android","application mobile","application multi-plateforme"]
 categories: competences-techniques
 hero: /images/competences-techniques/react-native/featured-image.webp
 menu:

@@ -1,6 +1,5 @@
 ---
 title: Docker WordPress SSH
-tags: []
 categories: realisations
 hero: /images/realisations/docker-wordpress-ssh/featured-image.svg
 menu:

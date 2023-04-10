@@ -1,6 +1,5 @@
 ---
 title: Pegaseo
-tags: ["react", "javascript", "typescript", "web", "application web"]
 categories: realisations
 hero: /images/realisations/pegaseo-application-web/icon.svg
 menu:

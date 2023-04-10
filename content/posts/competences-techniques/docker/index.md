@@ -1,6 +1,5 @@
 ---
 title: Docker
-tags: []
 categories: competences-techniques
 hero: /images/competences-techniques/docker/icon.svg
 menu:

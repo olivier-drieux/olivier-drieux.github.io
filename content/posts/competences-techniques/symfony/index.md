@@ -1,15 +1,5 @@
 ---
 title: Symfony
-tags: [
-    "Symfony",
-    "PHP",
-    "Twig",
-    "Doctrine",
-    "ORM",
-    "SQL",
-    "HTML",
-    "CSS",
-]
 hero: /images/competences-techniques/symfony/featured-image.jpg
 theme: Toha
 description: Compétence Symfony

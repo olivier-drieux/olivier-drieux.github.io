@@ -1,15 +1,5 @@
 ---
 title: Battlesquad
-tags: [
-    "Gestion de projet",
-    "Autonomie",
-    "Adaptabilité",
-    "Travail en équipe",
-    "PHP",
-    "MySQL",
-    "HTML",
-    "CSS",
-]
 hero: /images/realisations/battlesquad/featured-image.png
 theme: Toha
 description: Réalisation Battlesquad
