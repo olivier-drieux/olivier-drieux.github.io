@@ -1,6 +1,5 @@
 ---
 title: React
-date: 2023-01-01
 tags: ["react","javascript","typescript","web","application web"]
 categories: competences-techniques
 hero: /images/competences-techniques/react/featured-image.png

@@ -1,6 +1,5 @@
 ---
 title: Expert en ingénierie du logiciel RNCP n° 35419
-date: 2023-01-01
 categories: formations
 hero: featured-image.jpg
 theme: Toha

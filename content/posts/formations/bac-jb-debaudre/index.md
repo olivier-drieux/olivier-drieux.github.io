@@ -1,6 +1,5 @@
 ---
 title: BAC STI2D SIN
-date: 2023-01-01
 categories: formations
 hero: featured-image.png
 theme: Toha

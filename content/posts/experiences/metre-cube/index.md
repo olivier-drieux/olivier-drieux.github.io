@@ -1,6 +1,5 @@
 ---
 title: Mètre Cube
-date: 2023-01-01
 categories: experiences
 hero: featured-image.jpg
 theme: Toha

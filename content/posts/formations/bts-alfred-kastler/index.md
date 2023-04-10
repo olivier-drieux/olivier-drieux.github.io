@@ -1,6 +1,5 @@
 ---
 title: BTS IRIS
-date: 2023-01-01
 categories: formations
 hero: feature_image.jpg
 theme: Toha

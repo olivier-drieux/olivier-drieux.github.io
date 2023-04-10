@@ -1,6 +1,5 @@
 ---
 title: Battlesquad
-date: 2023-01-01
 tags: [
     "Gestion de projet",
     "Autonomie",

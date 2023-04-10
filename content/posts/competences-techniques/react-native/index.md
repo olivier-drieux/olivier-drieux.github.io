@@ -1,6 +1,5 @@
 ---
 title: React Native
-date: 2023-01-01
 tags: ["react native","multi-plateforme","javascript","typescript","native","mobile","application","ios","android","application mobile","application multi-plateforme"]
 categories: competences-techniques
 hero: /images/competences-techniques/react-native/featured-image.webp

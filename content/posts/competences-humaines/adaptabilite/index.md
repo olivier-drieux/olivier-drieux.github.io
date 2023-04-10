@@ -1,6 +1,5 @@
 ---
 title: Adaptabilité
-date: 2023-01-01
 showthedate: false
 hero: /images/competences-humaines/adaptabilite/featured-image.png
 description: "L'adaptabilité est la capacité à s'adapter à un environnement changeant. Elle est un facteur clé de réussite dans la vie professionnelle et personnelle."

@@ -1,6 +1,5 @@
 ---
 title: Pegaseo
-date: 2023-01-01
 tags: ["react", "javascript", "typescript", "web", "application web"]
 categories: realisations
 hero: /images/realisations/pegaseo-application-web/icon.svg

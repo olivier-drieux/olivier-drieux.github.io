@@ -1,6 +1,5 @@
 ---
 title: Les niveaux de compétences
-date: 2023-01-01
 categories: formations
 hero: featured-image.jpeg
 theme: Toha
