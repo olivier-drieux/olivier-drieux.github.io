@@ -27,7 +27,7 @@ projects:
       tags: ['Autonomie', 'Adaptabilité', 'Travail en équipe', 'Docker', 'WordPress', 'SSH']
 
     - name: Théâtre du Jour, application web
-      logo: /images/realisations/theatre-du-jour/icon.png
+      logo: /images/realisations/theatre-du-jour/icon.jpeg
       url: /posts/realisations/theatre-du-jour
       role: Développeur
       timeline: 'Avril 2020 - Mars 2021'
