@@ -38,11 +38,13 @@ Enfin, l'utilisation de **WP-CLI** a été nécessaire pour installer WordPress 
 </div>
 
 ## Rétrospective : Comment nous avons simplifié les tests WordPress grâce à Docker
+
 Les résultats obtenus ont confirmé les attentes, en offrant une solution efficace pour faciliter les tests de fonctionnalités sur des sites web **WordPress** en utilisant une image de conteneur **Docker** en environnement local. Les avantages incluent la simplification des processus de déploiement et de test, une **flexibilité** accrue pour s'adapter aux besoins spécifiques de chaque projet, et la réduction des **coûts** et des **risques** liés aux déploiements en production.
 
 En utilisant cette image de conteneur Docker, nous avons pu créer des environnements de test rapidement et facilement, avec des versions spécifiques de WordPress et de PHP, ainsi que les paramètres de base de données nécessaires pour chaque projet. De plus, en testant localement, nous avons pu détecter et corriger les **erreurs** plus rapidement et éviter les problèmes en production.
 
 ## Compétences liées
+
 - [Docker](/posts/competences-techniques/docker) : création d'une image de conteneur Docker.
 - [MySQL](/posts/competences-techniques/mysql) : création d'une base de données pour WordPress.
 - [Adaptabilité](/posts/competences-humaines/adaptabilite) : formation sur l'utilisation de Docker.

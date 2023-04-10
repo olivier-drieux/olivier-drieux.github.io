@@ -12,10 +12,12 @@ menu:
 ---
 
 ## Battlesquad : promouvoir la compétition en ligne
+
 **Grand passionnés de jeux-vidéo et de compétitions**, mon ami et moi avons décidé de créer en 2019 **l'association à but non lucratif Battlesquad**. Nous avons voulu mettre en place une **plateforme en ligne** pour organiser des **tournois de jeux vidéo** et promouvoir la **compétition entre joueurs**.
 L'un des principaux enjeux de ce projet était de proposer une solution **innovante** et **fonctionnelle** pour les **organisateurs de tournois** et les **joueurs**, afin d'attirer l'attention des utilisateurs potentiels et générer de l'engagement. Cependant, il existait des risques liés à la **concurrence**, car de nombreux autres **sites web** proposaient déjà des fonctionnalités similaires, ce qui pouvait rendre difficile la différenciation de notre projet. Par ailleurs, le développement d'un **site web** peut s'avérer **complexe** et nécessiter des **ressources importantes** en termes de temps et de budget, ce qui pouvait également compromettre le succès du projet. Enfin, la **sécurité** et la **protection des données personnelles** des utilisateurs constituaient un enjeu majeur pour la crédibilité et la confiance des utilisateurs dans notre projet.
 
 ## Les résultats impressionnants de notre expérience et de notre expertise
+
 Dans un premier temps, nous avons travaillé sur la création de **maquettes** pour le **site web**, en réfléchissant à toutes les **fonctionnalités** que nous souhaitions inclure pour rendre le site **pratique** pour les **organisateurs de tournois** et **facile à utiliser** pour les **joueurs**.
 
 Nous avons ensuite défini la **base de données** en créant un **diagramme**, afin de garantir que toutes les fonctionnalités seraient correctement intégrées. Nous avons mis toutes ces informations dans un **cahier des charges** pour en garder une trace.
@@ -102,6 +104,7 @@ Le point culminant a été la LAN Fortnite de la **Occitania Gaming Convention**
 Cependant, malgré les résultats positifs obtenus lors des **tournois organisés** et de l'augmentation de la communauté, l'association **Battlesquad** et son **site web** ont malheureusement été fermés aujourd'hui.
 
 ## Rétrospective : retour sur notre aventure avec Battlesquad
+
 En rétrospective, le projet **Battlesquad** était une **initiative** intéressante qui visait à promouvoir et à partager le **savoir-faire** dans le domaine de la **compétition de jeux vidéo**.
 Les objectifs étaient clairs et l'enjeu était pertinent.
 Cependant, il y a eu des **difficultés à maintenir** le projet à long terme, malgré les résultats positifs obtenus lors des **tournois organisés** et de l'augmentation de la communauté.

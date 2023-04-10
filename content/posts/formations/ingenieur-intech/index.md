@@ -13,6 +13,7 @@ menu:
 ---
 
 ## L'école
+
 Créée en 2002, INTECH est une École Supérieure d'Ingénierie Informatique proposant des formations de Bac à Bac+5 qui accueille des étudiants passionnés d'informatique aux profils divers : tous les types de bacheliers, et même ceux qui n'ont pas décroché le diplôme, étudiants en réorientation issus des 1ères années de l'Enseignement Supérieur en post-bac, après s'être lancés dans des filières universitaires qui s'avèrent sans intérêt pour eux.
 Le corps enseignant d'INTECH est composé de professionnels chevronnés qui sont à l'écoute des besoins des étudiants. Ils nous accompagnent tout au long de notre parcours académique et nous aident à trouver notre voie dans le domaine de l'informatique.
 

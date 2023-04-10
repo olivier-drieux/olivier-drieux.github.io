@@ -11,6 +11,7 @@ menu:
 ---
 
 ## Du cahier des charges à la livraison : création de site web pour l'école Pierre Debauche du Théâtre du Jour
+
 Le **Théâtre du Jour**, **école de théâtre** située à **Agen**, avait besoin d'un **site web vitrine** pour présenter ses **activités**, ses **formations**, ses **événements**, mais également pour permettre à ses **élèves**, **intervenants** et **compagnies de théâtre** de s'inscrire et de rechercher ou proposer des **offres d'emplois** dans le monde du théâtre.
 
 L'**objectif principal** de ce projet était de créer un **site web esthétique**, **intuitif** et **facile d'utilisation**, permettant aux utilisateurs de trouver facilement les **informations** dont ils avaient besoin. Nous avions également pour objectif de développer une **plateforme d'inscription et de gestion des offres d'emplois en ligne**.
@@ -20,6 +21,7 @@ Le principal **enjeu** était de créer une **interface conviviale**, tout en r�
 Parmi les **risques potentiels**, nous avons identifié la possibilité de rencontrer des **difficultés techniques** liées à l'intégration de la plateforme d'inscription et de gestion des offres d'emplois, ainsi que la nécessité de veiller à ce que le site soit conforme aux **normes de sécurité** et de **confidentialité**.
 
 ## Réalisation d'un site web sur mesure pour le Théâtre du Jour
+
 Le **projet de réalisation du site web** pour le **Théâtre du Jour** a suivi plusieurs **étapes clés** pour assurer la **réussite** du projet.
 
 La **première étape** était la **compréhension des besoins** des utilisateurs et des **objectifs** du projet. Cette phase a permis de **définir les attentes** des différentes **parties prenantes**, ainsi que les **fonctionnalités** nécessaires pour répondre à leurs besoins.
@@ -74,6 +76,7 @@ Malgré la fermeture du théâtre et la désactivation du site, je reste fier de
 Je continue de mettre en pratique ces compétences dans mes **projets futurs** et je suis déterminé à continuer de m'améliorer en tant que professionnel.
 
 ## Compétences liées
+
 - [Symfony](/posts/competences-techniques/symfony) : le site web a été développée avec le framework Symfony.
 - [MySQL](/posts/competences-techniques/mysql) : la base de données du site a été développée avec MySQL.
 - [Adaptabilité](/posts/competences-humaines/adaptabilite) : formation sur Symfony pour développer le site web.

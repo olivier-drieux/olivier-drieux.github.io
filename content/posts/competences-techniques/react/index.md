@@ -11,6 +11,7 @@ menu:
 ---
 
 ## Présentation
+
 React est une bibliothèque **JavaScript** **open-source** développée par **Facebook** qui permet de construire des **interfaces utilisateur interactives** pour les **applications web**. Utilisant une approche **déclarative**, elle permet aux développeurs de créer des **composants réutilisables** qui peuvent être facilement **manipulés** et mis à jour en temps réel, sans avoir à se soucier de la **gestion du DOM**. Cette approche facilite la **collaboration** entre les différents membres de l'équipe de développement et permet un **développement plus rapide** et plus **efficace**. De plus, React offre des **performances élevées** grâce à sa capacité à mettre à jour dynamiquement les composants sans recharger la page entière, ce qui rend l'application plus **rapide** et plus **fluide** pour les utilisateurs. Enfin, React est soutenu par une **communauté très active** et offre de nombreux **outils** et **bibliothèques tiers** pour faciliter le développement.
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
@@ -23,6 +24,7 @@ Dans un contexte professionnel, la maîtrise de React est un **atout majeur** po
 Une actualité récente en ce qui concerne React est la sortie de **React v18**, qui introduit une nouvelle fonctionnalité appelée **React Server Components**. Il s'agit d'une évolution majeure pour la création d'applications web **côté serveur avec React**, permettant de générer des composants React côté serveur de manière **asynchrone**, améliorant ainsi la **performance** et l'**expérience utilisateur**.
 
 ## Mon expérience
+
 J'ai eu l'opportunité de mettre en pratique mes compétences en React lors de mon alternance chez [**Linkweb**](https://linkweb.fr/). J'ai participé au développement d'une application web nommée ["Pegaseo"](/posts/realisations/pegaseo), développée entièrement avec React. J'ai commencé le projet avec peu de connaissances dans cette bibliothèque, mais j'ai rapidement monté en compétences et j'ai pu être **opérationnel** pour le projet en peu de temps.
 
 Pendant mon **apprentissage en entreprise**, j'ai créé un **système de pagination automatique** pour les pages qui affichent des **informations dynamiques** de l'application.
@@ -76,6 +78,7 @@ Le code ci-dessus est un [**hook React personnalisé**](https://fr.reactjs.org/d
 Ce hook permet de **simplifier** le code des composants qui l'utilisent et de **réduire** le nombre de lignes de code. Il permet également de **centraliser** la logique de pagination dans un seul endroit, ce qui facilite la **maintenance** et la **réutilisation** du code.
 
 ## Evolution et autocritique
+
 Je suis aujourd'hui **autonome** sur le développement de l'application avec React et je participe à la **mise en place de l'architecture** de l'application. J'ai également travaillé sur d'autres projets utilisant cette bibliothèque, ce qui me permet d'affirmer mon niveau de **maîtrise avancé**.
 
 Ma **marge de progression** en React est de continuer à **approfondir** mes **connaissances** en matière de **performance**, notamment en utilisant les dernières **fonctionnalités** telles que **"suspense"** ou **"lazy loading"**. Je suis également intéressé par l'utilisation de **bibliothèques tierces** telles que **Redux** ou **Next.js** pour améliorer la **gestion de l'état** de l'application et la mise en place de **routes**.
@@ -85,6 +88,7 @@ La maîtrise de React est **essentielle** dans mon profil de développeur et con
 En ce qui concerne ma **vitesse d'acquisition** de cette compétence, j'ai pu apprendre et monter en compétences rapidement grâce à une **forte motivation** et une **curiosité constante** pour les nouvelles technologies. Cependant, je reste toujours à l'affût des **dernières tendances** et des **nouvelles fonctionnalités** afin de continuer à me perfectionner.
 
 ## Conseils
+
 - Commencez petit : lorsque vous commencez à apprendre React, il est important de commencer par des projets simples avant de passer à des projets plus complexes. Cela vous permettra de mieux comprendre les concepts fondamentaux et de consolider vos connaissances.
 
 - Expérimentez : n'ayez pas peur d'expérimenter avec les différentes fonctionnalités de React. Essayez de nouvelles choses, testez de nouvelles approches et apprenez de vos erreurs.
@@ -99,4 +103,5 @@ En ce qui concerne ma **vitesse d'acquisition** de cette compétence, j'ai pu ap
 
 
 ## Réalisations liées
+
 - [Pegaseo](/posts/realisations/pegaseo) : réalisation d'une application web
