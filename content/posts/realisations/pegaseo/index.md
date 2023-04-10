@@ -1,43 +1,50 @@
 ---
-title: Pegaseo, une application web pour le référencement
+title: "Pegaseo : la clé pour un référencement réussi"
 date: 2023-01-01
 tags: ["react", "javascript", "typescript", "web", "application web"]
 categories: realisations
 hero: /images/realisations/pegaseo-application-web/icon.svg
+menu:
+    sidebar:
+        name: Pegaseo
+        identifier: rea-pegaseo
+        parent: realisations
+        weight: 3
 ---
 
-<!-- Nous avons développé une application web interne qui permettra plus tard de gérer le réseau de sites web "Private blog networks" (PBN) de Linkweb et de proposer des prestations de référencement à des clients. Pour l'instant, cette application est utilisée par les employés de Linkweb pour gérer le référencement des sites clients en rédigeant et publiant des articles optimisés pour le référencement SEO.
+**Pegaseo** est un projet ambitieux élaboré par l’agence **[Linkweb](/posts/experiences/linkweb)** dans le but de faciliter la **gestion** du réseau de sites web “**Private blog networks**” ([PBN](https://fr.semrush.com/blog/pbn-mythes-risques/#que-sont-les-r%C3%A9seaux-de-blogs-priv%C3%A9s)) de l’entreprise. Les **objectifs principaux** de Pegaseo étaient de **simplifier** la **gestion** du réseau de sites web PBN de Linkweb, de fournir des **prestations de référencement** de site web sur le PBN aux clients, et d’**améliorer** la **productivité** et l’**efficacité** des employés de Linkweb responsables de la **gestion des sites web PBN**.
 
-L'objectif de l'application est d'améliorer l'efficacité de la gestion du référencement des sites clients pour l'entreprise, et plus tard, d'offrir des prestations de référencement plus aisément. Dans un contexte où le référencement devient de plus en plus crucial pour les entreprises cherchant à élargir leur présence en ligne, le défi est de se démarquer de la concurrence en proposant une application innovante pour la gestion du référencement. Cependant, les risques sont associés à la qualité du référencement qui dépendra de la qualité du développement de l'application.
+Le projet Pegaseo a été réalisé dans un **contexte de marché** en constante **évolution** du web marketing et du développement web. Les enjeux étaient de rester **compétitif** en proposant des services **innovants**, tout en garantissant la **sécurité** des données et en minimisant les **risques** liés à la complexité technique de l’application.
 
-Nous avons d'abord développé un algorithme de rédaction automatique grâce à l'API de OpenAI. Ensuite, nous avons développé la construction automatique de sites WordPress en choisissant le nom de domaine, le modèle et les catégories. Finalement, nous utilisons l'API de WordPress et WP-CLI pour gérer la communication entre l'application et le site WordPress.
+La réalisation de Pegaseo consiste en une **application web** développée en **[Symfony](/posts/competences-techniques/symfony)** pour l’**API**, **[React](/posts/competences-techniques/react)** pour l’**interface utilisateur** et **[MySQL](/posts/competences-techniques/mysql)** pour la **base de données**. Cette application offre une **gestion automatisée** et efficace du réseau de sites web PBN et propose des **prestations de référencement** de site web sur le PBN à des clients.
 
-Le projet est en cours de développement mais jusqu'à présent, l'application permet de gérer efficacement le référencement des sites clients. À terme, l'application sera ouverte au public pour qu'ils puissent construire leur propre PBN sans avoir à gérer chaque site et chaque article eux-mêmes. De plus, cela permettra à Linkweb de proposer des prestations de référencement de manière plus efficace.
-Linkweb est une agence spécialisée dans la création de site internet et le référencement à Agen.
-Linkweb est spécialisée dans les problématiques du web marketing et du développement web. Notre agence web accompagne des entreprises de toute taille pour développer leur présence et leur communication sur Internet.
+## Les résultats : une application de référencement intelligente et facile à utiliser
+Le projet **Pegaseo** a été un travail de **longue haleine**, qui a nécessité une grande **rigueur** et un **savoir-faire technique** de la part de l'équipe de développement. Plusieurs **étapes** ont été nécessaires pour construire l'**architecture** de l'application, qui a été conçue avec les technologies **Symfony**, **React** et **MySQL**.
 
-Au cours de mon alternance de 2 ans chez Linkweb, j'ai développé une application web interne à l'entreprise avec les technologies Symfony pour l'API, React pour l'interface utilisateur et MySQL pour la base de données.
-L'application est toujours en développement mais, plus tard, cette application permettra de gérer le réseau de sites web dit “Private blog networks" (PBN : Private blog networks) de Linkweb et permettre à l'entreprise de proposer des prestations de référencement de site web sur le PBN à des clients sur ce même site web.
-Pour l'instant l'application est utilisée par les employés de Linkweb pour gérer le référencement des sites clients en rédigeant et en publiant des articles WordPress optimisés pour le référencement SEO.
+Les **interfaces utilisateur** ont également été développées pour permettre une gestion facile et efficace des **utilisateurs**, des **sites**, des **articles** et des **tâches**. Les fonctionnalités de **rédaction** et de **publication automatique** d'articles ont été intégrées en utilisant l'**API de OpenAI**, permettant ainsi de gagner un temps considérable dans le processus de publication des articles sur les sites web PBN.
 
+L'outil de **rédaction d'articles** est une fonctionnalité clé que j'ai contribué à concevoir et développer pour l'application. Cette fonctionnalité permet aux utilisateurs de rédiger des articles rapidement en utilisant des **modèles pré-entraînés de GPT-3**, leur permettant de gagner du temps lors de la publication sur les sites web PBN. Une **interface d'édition** a été développée pour permettre aux utilisateurs de **modifier** les articles avant publication et de visualiser le **score d'optimisation SEO** en pourcentage pour le **mot-clé choisi**, ainsi que les **mots à utiliser pour améliorer l'optimisation** de l'article.
 
-L'application permet de passer des commandes à des rédacteurs pour qu'ils puissent rédiger un article sur des critères choisis afin que cet article soit publié sur un blog.
-Il y a une gestion de statut de rédaction d'article, selection de rédacteur par des critères.
-Cette application permet d'enregistrer ou de créer de A à Z les sites web WordPress et de rédiger et gérer les articles de ce site sur WordPress.
-Nous avons aussi développé la construction de site WordPress automatique en choisissant son nom de domaine, le modèle WordPress et les catégories WordPress.
-L'application utilise l'API de WordPress ainsi que WP-CLI pour gérer la communication entre notre application et le site WordPress. Grâce à ça, nous pouvons facilement créer un nouveau WordPress et installer un modèle choisi avec WP-CLI et nous pouvons gérer les catégories et les articles en faisant un appel à l'API WordPress du même site.
-C'est un projet que j'ai suivi depuis le début, j'ai donc pu participer à la mise en place de l'architecture de celle-ci et encore aujourd'hui je suis acteur dans la mise en place de nouvelles technologies dans le projet.
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
+  <img onclick="window.open('/images/realisations/pegaseo/outil-redaction.png')" src="/images/realisations/pegaseo/outil-redaction.png" width="40%" style="align-self: center; cursor: pointer;" alt="Capture d'écran de l'outil de rédaction d'article" title="Cliquer pour zoomer" />
+  <i>Capture d'écran de l'outil de rédaction d'article</i>
+</div>
 
-Cette application à vocation d'être ouverte au public afin qu'ils construisent leur propre PBN sur l'application sans avoir à gérer chaque site et chaque article par eux-même, tout sera automatique après une configuration minime.
+Le développement de l'application Pegaseo a été un processus **collaboratif** étroit avec les membres du **pôle de référencement** dans l'entreprise. Cette approche de développement en **communication directe** avec les utilisateurs a permis de construire une application répondant précisément à leurs **besoins**. Les membres du pôle ont été impliqués dès le début du processus de développement et ont fourni des **commentaires précieux** sur les prototypes et les versions préliminaires de l'application, ce qui a permis à l'équipe de développement de rapidement apporter des **améliorations**.
 
-Nous utilisons un Trello pour gérer les tâches à faire, en cours ou terminées et nous communiquons en interne avec l'outil Slack pour avoir des retours en temps réel sur l'application.
+## Rétrospective : notre collaboration a permis de créer une application exceptionnelle
+Dans un futur immédiat, **l'application** sera ouverte au public pour qu'ils puissent construire leur propre PBN sur **l'application** sans avoir à gérer chaque site et chaque article par eux-mêmes, tout sera **automatique** après une **configuration minimale**. À distance, **l'application** pourrait être utilisée par d'autres entreprises pour gérer leur propre réseau de sites web PBN. L'objectif à long terme est d'étendre les **fonctionnalités** de **l'application** pour en faire un **outil complet** de **gestion de réseau de sites web**, en ajoutant des **fonctionnalités** telles que la **planification de contenu**, la **gestion des backlinks** et la **surveillance des performances SEO**.
 
+Pour atteindre ces **objectifs**, **l'équipe de développement** continuera à travailler sur **l'application** pour améliorer son **interface utilisateur**, sa **sécurité**, sa **performance** et sa **fiabilité**. Ils travailleront également sur **l'intégration de nouvelles technologies** et de nouveaux outils pour rendre **l'application** plus efficace et plus facile à utiliser.
 
-Avec ces informations, faire une présentation du projet en suivant les directives:
-1.	Présentation, la définition du projet ou de la réalisation
-2.	Les objectifs, le contexte, l'enjeu, les risques
-3.	Les étapes
-4.	Les acteurs
-5.	Les résultats
-6.	Les lendemains du projet : dans un futur immédiat, à distance, aujourd'hui
-7.	Mon regard critique -->
+Je suis heureux de souligner que ma **contribution** dans le projet est **significative**. J'ai joué un **rôle clé** dans la **conception** de l'**architecture** de l'**application** et j'ai participé **activement** aux **prises de décisions** importantes. Cela m'a permis de m'intégrer **parfaitement** dans l'**équipe** et de comprendre l'ensemble des **enjeux** du projet. Je suis **motivé** à **poursuivre** mon **engagement** envers le projet et à **continuer** à donner le **meilleur de moi-même** pour aider l'**équipe** à atteindre ses **objectifs**. Mon objectif est de contribuer au **succès** et à l'**expansion** du projet en fournissant mes **compétences** et mes **connaissances**.
+
+## Compétences liées
+- [Symfony](/posts/competences-techniques/symfony) : l'API de l'application a été développée avec le framework Symfony.
+- [React](/posts/competences-techniques/react) : l'interface utilisateur de l'application a été développée avec le framework React.
+- [MySQL](/posts/competences-techniques/mysql) : la base de données de l'application a été développée avec MySQL.
+- [Adaptabilité](/posts/competences-humaines/adaptabilite) : je me suis adapté aux technologies utilisées pour le développement de l'application.
+- [Autonomie](/posts/competences-humaines/autonomie) : je travaille de manière autonome sur le projet.
+- [Travail en équipe](/posts/competences-humaines/travail-en-equipe) : je travaille avec l'équipe de développement de l'application.
+- [Analyse des besoins](/posts/competences-humaines/analyse-des-besoins) : j'ai participé à l'analyse des besoins des utilisateurs de l'application.
+  
