@@ -1,15 +1,15 @@
 # some information about you
-name: 'Olivier DRIEUX'
-nickname: 'Olivier Drieux'
-image: 'images/DRIEUX_Olivier.JPG'
+name: Olivier DRIEUX
+nickname: Olivier Drieux
+image: images/DRIEUX_Olivier.JPG
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: ''
 
 # give your contact information. they will be used in the footer
 contactInfo:
-    email: 'olivierdrieux.pro@gmail.com'
-    phone: '0611726228'
+    email: olivierdrieux.pro@gmail.com
+    linkedin: https://www.linkedin.com/in/olivier-drieux/
 
 # a summary of what you do
 summary:
