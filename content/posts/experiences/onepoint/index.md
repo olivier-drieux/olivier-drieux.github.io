@@ -14,7 +14,7 @@ menu:
 
 ## L'entreprise
 
-Onepoint est l’architecte des grandes transformations des entreprises et des acteurs publics. Elle accompagne ses clients de la stratégie à la mise en œuvre technologique, en s’attachant toujours à penser au-delà des évidences et à s’inscrire dans des logiques de croissance verte, pour créer de nouvelles façons de travailler, de nouveaux modèles économiques et de nouveaux lieux. Elle est devenue en 20 ans l’un des acteurs majeurs de la transformation numérique et emploie 3.000 collaborateurs en France (Paris, Bordeaux, Nantes, Toulouse et Lyon) et dans le monde (Canada, Tunisie, Belgique, Australie et Singapour).
+Onepoint est l'architecte des grandes transformations des entreprises et des acteurs publics. Elle accompagne ses clients de la stratégie à la mise en œuvre technologique, en s'attachant toujours à penser au-delà des évidences et à s'inscrire dans des logiques de croissance verte, pour créer de nouvelles façons de travailler, de nouveaux modèles économiques et de nouveaux lieux. Elle est devenue en 20 ans l'un des acteurs majeurs de la transformation numérique et emploie 3.000 collaborateurs en France (Paris, Bordeaux, Nantes, Toulouse et Lyon) et dans le monde (Canada, Tunisie, Belgique, Australie et Singapour).
 
 ## Mon expérience
 
