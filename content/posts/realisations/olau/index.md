@@ -68,10 +68,10 @@ En somme, bien que l'application ne soit pas encore fonctionnelle, le projet OLA
 
 ## Compétences liées
 
--   [React Native](/posts/competences-techniques/react-native) : l'interface utilisateur de l'application a été développée avec le framework React Native.
--   [MySQL](/posts/competences-techniques/mysql) : la base de données de l'application a été développée avec MySQL.
--   [Docker](/posts/competences-techniques/docker) : développement avec un environnement Docker.
--   [Adaptabilité](/posts/competences-humaines/adaptabilite) : veille informatique pour trouver de nouvelles technologies.
--   [Autonomie](/posts/competences-humaines/autonomie) : recherche et développement de l'application.
--   [Analyse des besoins](/posts/competences-humaines/analyse-des-besoins) : analyse des besoins du client.
--   [Gestion de projet](/posts/competences-humaines/gestion-de-projet) : gestion du projet avec le client.
+- [React Native](/posts/competences-techniques/react-native) : l'interface utilisateur de l'application a été développée avec le framework React Native.
+- [MySQL](/posts/competences-techniques/mysql) : la base de données de l'application a été développée avec MySQL.
+- [Docker](/posts/competences-techniques/docker) : développement avec un environnement Docker.
+- [Adaptabilité](/posts/competences-humaines/adaptabilite) : veille informatique pour trouver de nouvelles technologies.
+- [Autonomie](/posts/competences-humaines/autonomie) : recherche et développement de l'application.
+- [Analyse des besoins](/posts/competences-humaines/analyse-des-besoins) : analyse des besoins du client.
+- [Gestion de projet](/posts/competences-humaines/gestion-de-projet) : gestion du projet avec le client.

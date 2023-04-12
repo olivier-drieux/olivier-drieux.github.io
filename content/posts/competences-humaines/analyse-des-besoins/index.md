@@ -40,15 +40,15 @@ Aujourd'hui, je considère avoir un **niveau professionnel** dans cette compéte
 
 ## Conseils
 
--   Prenez le temps de bien **comprendre** les besoins du client : Avant de commencer à travailler sur un projet, assurez-vous de bien **comprendre** les besoins du client. Posez des questions claires et précises pour **comprendre** leur vision, leurs attentes et leurs contraintes.
+- Prenez le temps de bien **comprendre** les besoins du client : Avant de commencer à travailler sur un projet, assurez-vous de bien **comprendre** les besoins du client. Posez des questions claires et précises pour **comprendre** leur vision, leurs attentes et leurs contraintes.
     
--   **Écoutez activement** : L'**écoute active** est une compétence clé pour bien **comprendre** les besoins d'un client. Soyez attentif à ce qu'il dit, posez des questions pour **clarifier** les points flous et **répétez** ses besoins pour vous assurer que vous avez bien **compris**.
+- **Écoutez activement** : L'**écoute active** est une compétence clé pour bien **comprendre** les besoins d'un client. Soyez attentif à ce qu'il dit, posez des questions pour **clarifier** les points flous et **répétez** ses besoins pour vous assurer que vous avez bien **compris**.
     
--   **Documentez** les besoins : Assurez-vous de **documenter** les besoins du client de manière **claire et organisée**. Cela vous aidera à les garder en mémoire et à les **référencer** tout au long du projet.
+- **Documentez** les besoins : Assurez-vous de **documenter** les besoins du client de manière **claire et organisée**. Cela vous aidera à les garder en mémoire et à les **référencer** tout au long du projet.
     
--   Faites preuve de **flexibilité** : Gardez à l'esprit que les besoins du client peuvent **évoluer** tout au long du projet. Soyez prêt à **adapter** vos plans et à **réviser** vos documents en fonction de ces changements.
+- Faites preuve de **flexibilité** : Gardez à l'esprit que les besoins du client peuvent **évoluer** tout au long du projet. Soyez prêt à **adapter** vos plans et à **réviser** vos documents en fonction de ces changements.
     
--   Faites **valider** les besoins par le client : Une fois que vous avez **documenté** les besoins, faites-les **valider** par le client. Cela vous assurera que vous avez bien **compris** leurs attentes et que vous êtes sur la bonne voie pour répondre à leurs besoins.
+- Faites **valider** les besoins par le client : Une fois que vous avez **documenté** les besoins, faites-les **valider** par le client. Cela vous assurera que vous avez bien **compris** leurs attentes et que vous êtes sur la bonne voie pour répondre à leurs besoins.
 
 ## Réalisations liées
 

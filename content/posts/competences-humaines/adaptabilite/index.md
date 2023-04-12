@@ -46,15 +46,15 @@ Je recommande vivement de vous abonner à la newsletter **[This Week In React](h
 
 Concernant les capacités à améliorer dans le domaine de l'**adaptabilité** :
 
--   Soyez **ouvert d'esprit** et acceptez les **changements** : les changements sont inévitables, et il est important de les accepter et de s'adapter à eux plutôt que de les combattre.
+- Soyez **ouvert d'esprit** et acceptez les **changements** : les changements sont inévitables, et il est important de les accepter et de s'adapter à eux plutôt que de les combattre.
     
--   Soyez **curieux** : posez des questions et cherchez à **comprendre** pourquoi et comment les choses fonctionnent. Plus vous en savez sur un sujet, plus vous serez capable de vous adapter rapidement à de nouvelles situations.
+- Soyez **curieux** : posez des questions et cherchez à **comprendre** pourquoi et comment les choses fonctionnent. Plus vous en savez sur un sujet, plus vous serez capable de vous adapter rapidement à de nouvelles situations.
     
--   Travaillez sur votre capacité à **gérer le stress** : les changements peuvent être stressants, il est donc important de travailler sur votre capacité à rester **calme** et concentré, même en cas de situation difficile.
+- Travaillez sur votre capacité à **gérer le stress** : les changements peuvent être stressants, il est donc important de travailler sur votre capacité à rester **calme** et concentré, même en cas de situation difficile.
     
--   Apprenez à **apprendre** : être capable d'apprendre rapidement de **nouvelles compétences** et de les appliquer dans des situations professionnelles est essentiel. Pratiquez régulièrement l'**apprentissage autonome**.
+- Apprenez à **apprendre** : être capable d'apprendre rapidement de **nouvelles compétences** et de les appliquer dans des situations professionnelles est essentiel. Pratiquez régulièrement l'**apprentissage autonome**.
     
--   Soyez **agile** : être agile signifie être capable de s'adapter rapidement à des situations changeantes. Apprenez à travailler de manière **flexible** et à réagir rapidement aux changements.
+- Soyez **agile** : être agile signifie être capable de s'adapter rapidement à des situations changeantes. Apprenez à travailler de manière **flexible** et à réagir rapidement aux changements.
 
 ## Réalisations liées
 

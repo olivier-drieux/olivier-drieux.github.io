@@ -41,7 +41,7 @@ En ce qui concerne ma vitesse d'acquisition de cette compétence, je dirais qu'e
     
 - Se fixer des **objectifs** : Pour être autonome, il est important de se fixer des objectifs à atteindre. Cela permet de rester **motivé** et de suivre une direction claire dans son travail.
     
--   Demander des **feedbacks** : Il est important de demander des feedbacks réguliers sur son travail pour savoir si l'on est sur la bonne voie. Cela permet également de comprendre comment on peut **améliorer** son travail.
+- Demander des **feedbacks** : Il est important de demander des feedbacks réguliers sur son travail pour savoir si l'on est sur la bonne voie. Cela permet également de comprendre comment on peut **améliorer** son travail.
     
 - Être **transparent** : Être transparent sur son travail peut aider à montrer que l'on est capable de travailler de manière autonome tout en restant en contact avec l'équipe. Il est important de **tenir les autres informés** de l'avancée de son travail et de signaler les éventuels problèmes rencontrés.
 

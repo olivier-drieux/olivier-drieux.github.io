@@ -60,5 +60,5 @@ Dans mon projet professionnel, je souhaite me spécialiser dans le développemen
 
 ## Réalisations liées
 
--   [Pegaseo](/posts/realisations/pegaseo) : réalisation d'une API REST avec Symfony pour la gestion des données d'un site web.
--   [Théâtre du Jour](/posts/realisations/theatre-du-jour) : réalisation d'un site web pour une école de théâtre avec Symfony et Twig.
+- [Pegaseo](/posts/realisations/pegaseo) : réalisation d'une API REST avec Symfony pour la gestion des données d'un site web.
+- [Théâtre du Jour](/posts/realisations/theatre-du-jour) : réalisation d'un site web pour une école de théâtre avec Symfony et Twig.

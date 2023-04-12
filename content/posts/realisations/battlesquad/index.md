@@ -115,8 +115,8 @@ Enfin, l'utilisation d'un framework comme **[Symfony](/posts/competences-techniq
 
 ## Compétences liées
 
--   [MySQL](/posts/competences-techniques/mysql) : la base de données de l'application a été développée avec MySQL.
--   [Adaptabilité](/posts/competences-humaines/adaptabilite) : adaptation aux demandes des utilisateurs et aux mises à jour des jeux-vidéos.
--   [Autonomie](/posts/competences-humaines/autonomie) : développement du projet sur mon temps libre.
--   [Gestion de projet](/posts/competences-humaines/gestion-de-projet) : gestion de la partie développement de l'application tout en participant aux négociations clients et à la gestion des tournois.
--   [Travail en équipe](/posts/competences-humaines/travail-en-equipe) : partage des développements de l'application avec mon ami.
+- [MySQL](/posts/competences-techniques/mysql) : la base de données de l'application a été développée avec MySQL.
+- [Adaptabilité](/posts/competences-humaines/adaptabilite) : adaptation aux demandes des utilisateurs et aux mises à jour des jeux-vidéos.
+- [Autonomie](/posts/competences-humaines/autonomie) : développement du projet sur mon temps libre.
+- [Gestion de projet](/posts/competences-humaines/gestion-de-projet) : gestion de la partie développement de l'application tout en participant aux négociations clients et à la gestion des tournois.
+- [Travail en équipe](/posts/competences-humaines/travail-en-equipe) : partage des développements de l'application avec mon ami.
