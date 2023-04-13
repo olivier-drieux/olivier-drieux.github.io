@@ -48,7 +48,7 @@ En outre, les procédures stockées sont exécutées du côté du serveur de bas
 
 Enfin, la procédure stockée offre une interface simple pour accéder et gérer les données dans la base de données, ce qui peut aider à simplifier les opérations complexes et améliorer l'efficacité et la cohérence des données stockées.
 
-## Evolution et autocritique
+## Développement et perspectives d'amélioration
 
 Je considère avoir un niveau de maîtrise satisfaisant en MySQL, mais je suis conscient que je peux encore progresser. En effet, la mise en œuvre de MySQL peut varier en fonction du contexte, et il est important de comprendre les besoins spécifiques de chaque projet pour choisir les fonctionnalités les plus adaptées.
 

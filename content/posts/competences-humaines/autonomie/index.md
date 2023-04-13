@@ -9,7 +9,6 @@ menu:
     parent: competences-humaines
     weight: 3
 ---
-<!-- / -->
 
 ## Présentation
 
@@ -27,7 +26,7 @@ Enfin, j'ai créé un site web pour l'[école Pierre Debauche du Théâtre du Jo
 
 Ces expériences ont renforcé mon autonomie dans le travail et m'ont permis de devenir un professionnel plus **efficace** et **adaptable**. Grâce à cette compétence, je suis capable de relever les défis rencontrés dans mes projets, de prendre des décisions éclairées et de travailler de manière proactive pour atteindre les **objectifs fixés**.
 
-## Evolution et autocritique
+## Développement et perspectives d'amélioration
 
 Je pense avoir acquis une grande **autonomie professionnelle** grâce à mes expériences passées. Toutefois, je suis conscient que cette compétence ne fonctionne pas toujours dans toutes les situations, et que dans certaines situations, une **collaboration étroite** avec les membres de l'équipe est nécessaire pour atteindre les objectifs du projet. Cependant, je pense que l'**autonomie** est une compétence essentielle pour réussir dans le monde professionnel, et je continue à la renforcer dans mon travail au quotidien.
 

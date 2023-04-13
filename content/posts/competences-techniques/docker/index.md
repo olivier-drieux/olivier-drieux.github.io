@@ -61,7 +61,7 @@ Le code ci-dessus est utilisé pour créer deux conteneurs différents : un pour
 
 J'ai également créé une image Docker pour tester le [déploiement automatique d'un site WordPress en SSH](/posts/realisations/docker-wordpress-ssh) avec WP-CLI en local. Cette image nous a permis de gagner un temps précieux en testant notre code de déploiement automatique directement sur notre machine plutôt que sur un serveur distant.
 
-## Evolution et autocritique
+## Développement et perspectives d'amélioration
 
 Je considère avoir un niveau de maîtrise [initié](/posts/niveau-competences) de cette compétence, car j'ai une bonne compréhension de Docker et de son fonctionnement, mais il y a encore beaucoup de fonctionnalités et d'optimisations que je dois explorer pour améliorer mon utilisation de cette technologie.
 

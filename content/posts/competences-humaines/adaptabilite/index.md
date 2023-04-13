@@ -28,7 +28,7 @@ En outre, j'ai pu compter sur l'**appui** et les **conseils** des autres membres
 
 Pour être sûr de toujours rester à jour sur les dernières **tendances** et les **nouvelles technologies** dans mon domaine d'opérabilité, je réalise une **veille technologique quotidienne**. Je suis des **forums** et des **influenceurs** qui partagent des informations précieuses sur les derniers développements technologiques et les meilleures pratiques pour les intégrer efficacement dans mon travail.
 
-## Evolution et autocritique
+## Développement et perspectives d'amélioration
 
 Mon niveau actuel de compétence en matière d'**adaptabilité** me permet de m'ajuster aisément à de nouveaux environnements professionnels et à l'évolution des outils technologiques.
 
@@ -58,8 +58,8 @@ Concernant les capacités à améliorer dans le domaine de l'**adaptabilité** :
 
 ## Réalisations liées
 
-- [Battlesquad](/posts/realisations/battlesquad) : un projet où j'ai dû monter en compétences sur la construction et la gestion d'une application accueillant des centaines d'utilisateurs.
-- [Docker WordPress SSH](/posts/realisations/docker-wordpress-ssh) : un projet où j'ai dû apprendre une nouvelle technologie en quelques jours pour répondre aux besoins du projet.
-- [Pegaseo](/posts/realisations/pegaseo) : un projet où j'ai dû apprendre le langage React pour répondre aux besoins du projet.
-- [OLAU](/posts/realisations/olau) : un projet où j'ai dû apprendre le langage React Native pour répondre aux contraintes de la plateforme.
-- [Théâtre du Jour](/posts/realisations/theatre-du-jour) : un projet où j'ai dû apprendre le framework Symfony pour répondre aux besoins de l'application.
+- [Battlesquad](/posts/realisations/battlesquad) : Adaptation rapide à la montée en charge de l'application.
+- [Docker WordPress SSH](/posts/realisations/docker-wordpress-ssh) : Apprentissage rapide d'une nouvelle technologie pour répondre aux exigences du projet.
+- [Pegaseo](/posts/realisations/pegaseo) : Acquisition du langage React pour satisfaire les besoins du projet.
+- [OLAU](/posts/realisations/olau) : Maîtrise du langage React Native face aux contraintes de la plateforme.
+- [Théâtre du Jour](/posts/realisations/theatre-du-jour) : Assimilation du framework Symfony pour les besoins de l'application.

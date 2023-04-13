@@ -77,7 +77,7 @@ export default function usePagination<TData = unknown>(props: IUsePaginationProp
 Le code ci-dessus est un [**hook React personnalisé**](https://fr.reactjs.org/docs/hooks-intro.html) qui permet, grâce aux options données avec le paramètres `props`, de définir une requête [react-query](https://react-query.tanstack.com/) et de laisser au hook la **résponsabilité** de gérer la **pagination** de la page. Le hook renvoie un object contenant le résultat de la requête, les métadonnées de la pagination et un élément de pagination React. Il est important de noter que le hook utilise une **fonction de [debounce](https://www.techtarget.com/whatis/definition/debouncing#:~:text=Debouncing%20is%20removing%20unwanted%20input,hardware%20switches%2C%20programs%20and%20websites.)** pour éviter de mettre à jour la pagination trop souvent, ce qui permet d'éviter des requêtes inutiles.
 Ce hook permet de **simplifier** le code des composants qui l'utilisent et de **réduire** le nombre de lignes de code. Il permet également de **centraliser** la logique de pagination dans un seul endroit, ce qui facilite la **maintenance** et la **réutilisation** du code.
 
-## Evolution et autocritique
+## Développement et perspectives d'amélioration
 
 Je suis aujourd'hui **autonome** sur le développement de l'application avec React et je participe à la **mise en place de l'architecture** de l'application. J'ai également travaillé sur d'autres projets utilisant cette bibliothèque, ce qui me permet d'affirmer mon niveau de **maîtrise avancé**.
 

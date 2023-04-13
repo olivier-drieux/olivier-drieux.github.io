@@ -42,7 +42,7 @@ J'ai également eu l'opportunité de développer un **site web** pour une **éco
   <i>Site web du Théâtre du Jour</i>
 </div>
 
-## Evolution et autocritique
+## Développement et perspectives d'amélioration
 
 Bien que je possède déjà une certaine maîtrise de cette compétence, je suis convaincu que je peux encore progresser en explorant les fonctionnalités avancées de **Symfony** telles que la **sécurité**, la **performance** et la **scalabilité**.
 

@@ -26,7 +26,7 @@ Nous avons ensuite procédé à une **analyse détaillée des fonctionnalités**
 
 Cette étape a été cruciale pour **comprendre les besoins des utilisateurs** et concevoir un site web adapté à leurs attentes. Nous avons travaillé en étroite collaboration avec les responsables du théâtre pour nous assurer que le site répondrait aux exigences de tous les utilisateurs. Le résultat a été un site web bien accueilli par les parties prenantes, qui a facilité la **gestion des informations** et la promotion des événements du théâtre.
 
-## Evolution et autocritique  
+## Développement et perspectives d'amélioration  
 Au début de ma carrière, j'ai parfois sous-estimé l'importance de l'**analyse des besoins** et je me suis concentré sur la mise en place de solutions techniques sans vraiment comprendre les attentes des clients. Cependant, en travaillant sur des projets de plus en plus complexes, j'ai rapidement compris l'importance de l'analyse des besoins et j'ai commencé à accorder plus d'attention à cette étape cruciale.
 
 Au fil du temps, j'ai développé des compétences pour **écouter et comprendre les besoins des clients**, ainsi que pour poser des questions claires et pertinentes pour clarifier ces besoins. J'ai également appris à évaluer les différents scénarios possibles et à **proposer des solutions adaptées** aux besoins spécifiques des clients.
@@ -51,6 +51,6 @@ Pour continuer à progresser, je prévois de suivre des **formations** et des **
 
 ## Réalisations liées
 
-- [Pegaseo](/posts/realisations/pegaseo) : participation à l'analyse des besoins des utilisateurs de l'application.
-- [OLAU](/posts/realisations/olau) : analyse des besoins du projet pour comprendre les attentes des utilisateurs.
-- [Théâtre du Jour](/posts/realisations/theatre-du-jour) : analyse des besoin du projet afin de fournir une solution adaptée aux besoins des utilisateurs.
+- [Pegaseo](/posts/realisations/pegaseo) : Analyse des besoins pour déterminer les fonctionnalités clés et exigences techniques.
+- [OLAU](/posts/realisations/olau) : Compréhension des contraintes de plateforme et attentes des utilisateurs grâce à l'analyse des besoins.
+- [Théâtre du Jour](/posts/realisations/theatre-du-jour) : Identification des attentes des parties prenantes et élaboration d'une application sur mesure grâce à une analyse approfondie des besoins.

@@ -36,7 +36,7 @@ L'application a été créée pour répondre à un besoin identifié par une con
   <i>Application mobile en React Native</i>
 </div>
 
-## Evolution et autocritique
+## Développement et perspectives d'amélioration
 
 Bien que je sois à l'aise avec cette technologie, je sais qu'il y a toujours des marges de progression et des cas d'utilisation plus complexes qui nécessitent une expertise plus approfondie. Cependant, je suis convaincu que la maîtrise de React Native est essentielle pour répondre aux besoins des clients et pour offrir des applications mobiles de qualité.
 
