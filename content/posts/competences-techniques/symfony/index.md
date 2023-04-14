@@ -25,11 +25,11 @@ Lors de mon **alternance**, j'ai participé au **développement** d'une **API** 
 En concevant ce **service** dédié à la **gestion des opérations liées aux fichiers** de l'application interne, j'ai pu **simplifier considérablement le traitement des fichiers** lors de la manipulation de l'**API**. Par exemple, lorsqu'il a été nécessaire de **télécharger une image de profil** d'un utilisateur, j'ai pu faire appel à ce service pour simplifier le **code**. Cette simplification a permis une **gestion améliorée des erreurs** et une **meilleure qualité du code** en général.
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 30px;">
-    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 20%">
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 30%">
         <img onclick="window.open('/images/competences-techniques/symfony/pegaseo-front.png')" src="/images/competences-techniques/symfony/pegaseo-front.png" style="align-self: center; cursor: pointer;" alt="Interface pour sélectionner un document" title="Cliquer pour zoomer" />
         <i>Interface pour sélectionner un document</i>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px; width: 20%">
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px; width: 30%">
         <img onclick="window.open('/images/competences-techniques/symfony/pegaseo-back.png')" src="/images/competences-techniques/symfony/pegaseo-back.png" style="align-self: center; cursor: pointer;" alt="Résultat du téléchargement du fichier" title="Cliquer pour zoomer" />
         <i>Résultat du téléchargement du fichier</i>
     </div>
@@ -44,19 +44,23 @@ J'ai également eu l'opportunité de développer un **site web** pour une **éco
 
 ## Développement et perspectives d'amélioration
 
-Bien que je possède déjà une certaine maîtrise de cette compétence, je suis convaincu que je peux encore progresser en explorant les fonctionnalités avancées de **Symfony** telles que la **sécurité**, la **performance** et la **scalabilité**.
+Au cours de mon apprentissage de **Symfony**, j'ai rapidement acquis les compétences nécessaires pour travailler sur des **projets réels**. Cette **acquisition rapide de compétences** peut être attribuée à mon aptitude à comprendre rapidement les concepts et à les mettre en pratique, ainsi qu'à mon **expérience préalable en PHP**.
 
-Dans mon projet professionnel, je souhaite me spécialiser dans le développement de sites web et d'API complexes pour des entreprises de grande envergure. Pour cela, j'ai déjà suivi des formations pour améliorer mes compétences en Symfony et j'ai prévu d'en suivre d'autres à l'avenir. Je suis confiant dans ma capacité à acquérir rapidement de nouvelles compétences et à les mettre en pratique dans des projets ambitieux.
+Bien que je possède déjà une certaine **maîtrise** de cette compétence, je suis convaincu que je peux encore **progresser** en explorant les fonctionnalités avancées de **Symfony** telles que la **sécurité**, la **performance** et la **scalabilité**.
+
+Dans mon **projet professionnel**, je souhaite me spécialiser dans le **développement de sites web** et d'**API complexes** pour des entreprises de grande envergure. Pour cela, j'ai déjà suivi des **formations** pour améliorer mes compétences en Symfony et j'ai prévu d'en suivre d'autres à l'avenir. Je suis confiant dans ma capacité à **acquérir rapidement de nouvelles compétences** et à les mettre en pratique dans des **projets ambitieux**.
+
+Dans mon rôle actuel d'**Expert en Ingénierie**, la maîtrise de **Symfony** est cruciale pour assurer la **qualité** et la **performance** des **applications web** et des **API** que je développe. Cette compétence est essentielle pour mener à bien mes **responsabilités** et contribuer au **succès de mes projets** et de mon **équipe**. Ainsi, je continue d'accorder une grande importance à l'amélioration de ma compétence en **Symfony**, car elle est un pilier essentiel de mon **expertise en développement web**.
 
 ## Conseils
 
-- Commencez par apprendre les bases : Avant de vous aventurer dans des projets plus complexes, il est important de bien comprendre les fondamentaux de Symfony. Prenez le temps de suivre des cours ou des tutoriels en ligne pour apprendre les bases, comme l'architecture MVC et l'utilisation des composants réutilisables.
+- **Commencez par apprendre les bases** : Avant de vous aventurer dans des projets plus complexes, il est important de bien comprendre les fondamentaux de Symfony. Prenez le temps de suivre des cours ou des tutoriels en ligne pour apprendre les bases, comme l'architecture MVC et l'utilisation des composants réutilisables.
 
-- Pratiquez régulièrement : La compétence en Symfony s'améliore avec la pratique. Essayez de travailler sur des projets personnels ou de petits projets professionnels pour mettre en pratique ce que vous avez appris et améliorer votre maîtrise.
+- **Pratiquez régulièrement** : La compétence en Symfony s'améliore avec la pratique. Essayez de travailler sur des projets personnels ou de petits projets professionnels pour mettre en pratique ce que vous avez appris et améliorer votre maîtrise.
 
-- Utilisez la documentation : Symfony dispose d'une documentation très complète et détaillée. N'hésitez pas à l'utiliser pour trouver des réponses à vos questions et pour découvrir de nouvelles fonctionnalités.
+- **Utilisez la documentation** : Symfony dispose d'une documentation très complète et détaillée. N'hésitez pas à l'utiliser pour trouver des réponses à vos questions et pour découvrir de nouvelles fonctionnalités.
 
-- Restez à jour : Symfony est un framework en constante évolution. Restez informé des dernières mises à jour et des nouvelles fonctionnalités pour améliorer votre compétence en Symfony.
+- **Restez à jour** : Symfony est un framework en constante évolution. Restez informé des dernières mises à jour et des nouvelles fonctionnalités pour améliorer votre compétence en Symfony.
 
 ## Réalisations liées
 
