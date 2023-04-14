@@ -51,7 +51,5 @@ Afin de continuer à développer ma compétence en travail en équipe, je prévo
 ## Réalisations liées
 
 - [Battlesquad](/posts/realisations/battlesquad) : collaboration étroite avec un collègue, renforcement de la communication et coordination pour développer un jeu vidéo.
-    
 - [Pegaseo](/posts/realisations/pegaseo) : travail en équipe multidisciplinaire, adaptation rapide, partage de connaissances et coopération pour développer une plateforme de référencement.
-    
 - [Théâtre du Jour](/posts/realisations/theatre-du-jour) : collaboration avec d'autres développeurs, communication claire et écoute pour créer une application web avec le framework Symfony.

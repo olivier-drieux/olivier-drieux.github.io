@@ -46,6 +46,5 @@ En ce qui concerne ma vitesse d'acquisition de cette compétence, je dirais qu'e
 
 ## Réalisations liées
 - [Battlesquad](/posts/realisations/battlesquad) : développement du projet en total autonomie.
-- [Pegaseo](/posts/realisations/pegaseo) : autonomie partielle sur le projet.
 - [OLAU](/posts/realisations/olau) : développement du projet en total autonomie.
 - [Théâtre du Jour](/posts/realisations/theatre-du-jour) : développement du projet en total autonomie.

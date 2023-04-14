@@ -75,6 +75,5 @@ La compétence MySQL occupe une **place importante** dans mon métier actuel d�
 ## Réalisations liées
 
 - [Pegaseo](/posts/realisations/pegaseo) : réalisation d'une API avec une base de données MySQL.
-- [OLAU](/posts/realisations/olau) : réalisation d'une API avec une base de données MySQL.
 - [Théâtre du jour](/posts/realisations/theatre-du-jour) : réalisation d'une API avec une base de données MySQL.
 - [Battlesquad](/posts/realisations/battlesquad) : réalisation d'un site web avec une base de données MySQL.

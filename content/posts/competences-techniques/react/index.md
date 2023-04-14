@@ -14,6 +14,8 @@ menu:
 
 React est une bibliothèque **JavaScript** **open-source** développée par **Facebook** qui permet de construire des **interfaces utilisateur interactives** pour les **applications web**. Utilisant une approche **déclarative**, elle permet aux développeurs de créer des **composants réutilisables** qui peuvent être facilement **manipulés** et mis à jour en temps réel, sans avoir à se soucier de la **gestion du DOM**. Cette approche facilite la **collaboration** entre les différents membres de l'équipe de développement et permet un **développement plus rapide** et plus **efficace**. De plus, React offre des **performances élevées** grâce à sa capacité à mettre à jour dynamiquement les composants sans recharger la page entière, ce qui rend l'application plus **rapide** et plus **fluide** pour les utilisateurs. Enfin, React est soutenu par une **communauté très active** et offre de nombreux **outils** et **bibliothèques tiers** pour faciliter le développement.
 
+Bien que React soit une bibliothèque **polyvalente** et **adaptative**, la manière dont elle est utilisée peut varier en fonction du contexte et des spécificités du projet. Dans certaines situations, il peut être nécessaire de combiner React avec d'autres outils ou bibliothèques pour répondre à des besoins spécifiques, comme la gestion d'état avec Redux ou le **routage** avec React Router.
+
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 30px;">
   <img onclick="window.open('https://insights.stackoverflow.com/survey/2021#most-popular-technologies-webframe-prof')" src="/images/competences-techniques/react/survey.png" width="30%" style="align-self: center; cursor: pointer;" alt="React est la librairie la plus populaire parmi les professionnels en 2021" title="Cliquer pour zoomer" />
   <i>React est la librairie la plus populaire parmi les professionnels en 2021</i>
@@ -25,9 +27,7 @@ Une actualité récente en ce qui concerne React est la sortie de **React v18**,
 
 ## Mon expérience
 
-J'ai eu l'opportunité de mettre en pratique mes compétences en React lors de mon alternance chez [**Linkweb**](https://linkweb.fr/). J'ai participé au développement d'une application web nommée ["Pegaseo"](/posts/realisations/pegaseo), développée entièrement avec React. J'ai commencé le projet avec peu de connaissances dans cette bibliothèque, mais j'ai rapidement monté en compétences et j'ai pu être **opérationnel** pour le projet en peu de temps.
-
-Pendant mon **apprentissage en entreprise**, j'ai créé un **système de pagination automatique** pour les pages qui affichent des **informations dynamiques** de l'application.
+Pendant mon apprentissage en entreprise, j’ai créé un système de **pagination automatique** pour les pages qui affichent des informations dynamiques de l’application. Cette réalisation a permis d'améliorer significativement la performance et l'ergonomie de l'application Pegaseo. Grâce à ma compétence en **React**, j'ai su résoudre ce problème et contribuer efficacement à la réussite du projet.
 
 <details><summary><strong>Cliquer pour voir le code</strong></summary>
 
@@ -79,27 +79,27 @@ Ce hook permet de **simplifier** le code des composants qui l'utilisent et de **
 
 ## Développement et perspectives d'amélioration
 
-Je suis aujourd'hui **autonome** sur le développement de l'application avec React et je participe à la **mise en place de l'architecture** de l'application. J'ai également travaillé sur d'autres projets utilisant cette bibliothèque, ce qui me permet d'affirmer mon niveau de **maîtrise avancé**.
+Grâce à ma forte motivation et à ma curiosité constante pour les nouvelles technologies, j'ai pu rapidement acquérir et monter en compétences sur React. Cela m'a permis d'atteindre aujourd'hui un niveau de **maîtrise avancé**, me rendant autonome dans le développement et la mise en place de l'architecture d'applications web avec React.
 
-Ma **marge de progression** en React est de continuer à **approfondir** mes **connaissances** en matière de **performance**, notamment en utilisant les dernières **fonctionnalités** telles que **"suspense"** ou **"lazy loading"**. Je suis également intéressé par l'utilisation de **bibliothèques tierces** telles que **Redux** ou **Next.js** pour améliorer la **gestion de l'état** de l'application et la mise en place de **routes**.
+Cependant, je reste toujours à l'affût des **dernières tendances** et des **nouvelles fonctionnalités** pour continuer à me perfectionner. Ma marge de progression en React consiste notamment à approfondir mes connaissances en matière de **performance**, en utilisant des fonctionnalités récentes telles que "**suspense**" ou "**lazy loading**". Je suis également intéressé par l'utilisation de **bibliothèques tierces** comme **Redux** ou **Next.js** pour améliorer la gestion de l'état de l'application et la mise en place de routes.
 
-La maîtrise de React est **essentielle** dans mon profil de développeur et constitue une compétence de **haut niveau** de **priorité** pour moi. Je souhaite continuer à l'**approfondir** et à l'appliquer sur de nouveaux projets passionnants.
+À moyen terme, je vise à devenir un **expert en React**, capable de concevoir et d'implémenter des applications complexes et performantes. Pour y parvenir, je prévois de suivre des **formations en ligne** et de participer à des **conférences** et **ateliers** sur React.
 
-En ce qui concerne ma **vitesse d'acquisition** de cette compétence, j'ai pu apprendre et monter en compétences rapidement grâce à une **forte motivation** et une **curiosité constante** pour les nouvelles technologies. Cependant, je reste toujours à l'affût des **dernières tendances** et des **nouvelles fonctionnalités** afin de continuer à me perfectionner.
+Dans mon poste actuel, la maîtrise de React est une compétence clé et une priorité pour réussir dans mes responsabilités de développeur. Les projets sur lesquels je travaille dépendent fortement de la qualité et de l'efficacité des applications web que je développe, et la maîtrise de React est essentielle pour atteindre ces objectifs. Par conséquent, l'amélioration continue de ma compétence en React reste une priorité pour moi, afin de contribuer au succès de mes projets et de mon équipe.
 
 ## Conseils
 
-- Commencez petit : lorsque vous commencez à apprendre React, il est important de commencer par des projets simples avant de passer à des projets plus complexes. Cela vous permettra de mieux comprendre les concepts fondamentaux et de consolider vos connaissances.
+- **Commencez petit** : lorsque vous commencez à apprendre React, il est important de commencer par des projets simples avant de passer à des projets plus complexes. Cela vous permettra de mieux comprendre les concepts fondamentaux et de consolider vos connaissances.
 
-- Expérimentez : n'ayez pas peur d'expérimenter avec les différentes fonctionnalités de React. Essayez de nouvelles choses, testez de nouvelles approches et apprenez de vos erreurs.
+- **Expérimentez** : n'ayez pas peur d'expérimenter avec les différentes fonctionnalités de React. Essayez de nouvelles choses, testez de nouvelles approches et apprenez de vos erreurs.
 
-- Soyez patient : l'apprentissage de React peut être difficile et prendre du temps. Il est important de rester patient et persévérant pour progresser.
+- **Soyez patient** : l'apprentissage de React peut être difficile et prendre du temps. Il est important de rester patient et persévérant pour progresser.
 
-- Restez à jour : React est une technologie en constante évolution. Il est important de rester informé des dernières fonctionnalités et des meilleures pratiques pour continuer à améliorer vos compétences.
+- **Restez à jour** : React est une technologie en constante évolution. Il est important de rester informé des dernières fonctionnalités et des meilleures pratiques pour continuer à améliorer vos compétences.
 
-- Pratiquez régulièrement : la pratique régulière est essentielle pour maintenir et améliorer vos compétences en React. Trouvez des projets personnels ou des projets open-source auxquels vous pouvez contribuer pour vous exercer.
+- **Pratiquez régulièrement** : la pratique régulière est essentielle pour maintenir et améliorer vos compétences en React. Trouvez des projets personnels ou des projets open-source auxquels vous pouvez contribuer pour vous exercer.
 
-- Apprenez à travailler en équipe : dans le monde professionnel, il est souvent nécessaire de travailler en équipe. Apprenez à collaborer avec d'autres développeurs en utilisant des outils de gestion de code tels que Git, et pratiquez les bonnes pratiques de communication pour travailler efficacement en équipe.
+- **Apprenez à travailler en équipe** : dans le monde professionnel, il est souvent nécessaire de travailler en équipe. Apprenez à collaborer avec d'autres développeurs en utilisant des outils de gestion de code tels que Git, et pratiquez les bonnes pratiques de communication pour travailler efficacement en équipe.
 
 
 ## Réalisations liées
