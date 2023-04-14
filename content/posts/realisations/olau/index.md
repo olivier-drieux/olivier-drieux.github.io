@@ -30,11 +30,13 @@ menu:
 
 ## OLAU, un outil de collaboration pour les projets de construction
 
-Le projet **OLAU** est une application mobile destinée à faciliter le travail des **conducteurs de travaux**, des **artisans** et des **clients** impliqués dans la **construction** de maisons. L'idée de créer cette application est venue de la volonté de **regrouper** toutes les parties prenantes sur une seule **plateforme**, afin de leur permettre d'accéder facilement aux **informations pertinentes** sur le projet de construction.
+Le projet **OLAU** est une **application mobile** destinée à faciliter le travail des **conducteurs de travaux**, des **artisans** et des **clients** impliqués dans la construction de maisons. L'idée de créer cette application est venue de la volonté de regrouper toutes les parties prenantes sur une seule plateforme, afin de leur permettre d'accéder facilement aux informations pertinentes sur le **projet de construction**.
 
-Pour répondre à ce besoin, j'ai effectué une **recherche approfondie** pour trouver la **technologie** la mieux adaptée à ce projet. Étant compétent en **JavaScript**, j'ai choisi **React Native** pour développer une application **multi-plateforme** disponible sur **iOS** et **Android**. Cette technologie permet de créer des applications **performantes** et **réactives** tout en utilisant des **composants réutilisables**.
+Pour répondre à ce besoin, j'ai effectué une **recherche approfondie** pour trouver la **technologie** la mieux adaptée à ce projet. Étant compétent en **JavaScript**, j'ai choisi **React Native** pour développer une **application multi-plateforme** disponible sur **iOS** et **Android**. Cette technologie permet de créer des applications performantes et réactives tout en utilisant des **composants réutilisables**.
 
-En **collaborant étroitement** avec une **conductrice de travaux**, j'ai pu identifier les **besoins** et les **fonctionnalités clés** pour les parties prenantes. Ainsi, le projet OLAU est conçu pour offrir une **expérience utilisateur** agréable et **intuitive**, tout en offrant des **fonctionnalités utiles** pour les clients, les artisans et les conducteurs de travaux.
+En collaborant étroitement avec une **conductrice de travaux**, j'ai pu identifier les **besoins** et les **fonctionnalités clés** pour les parties prenantes. Ainsi, le projet OLAU est conçu pour offrir une **expérience utilisateur agréable et intuitive**, tout en offrant des fonctionnalités utiles pour les clients, les artisans et les conducteurs de travaux.
+
+Un des **risques potentiels** dans le développement de l'application OLAU est de ne pas répondre parfaitement aux besoins des différentes parties prenantes. Il est crucial de s'assurer que les **fonctionnalités développées** sont pertinentes et utiles pour les clients, les artisans et les conducteurs de travaux. Pour minimiser ce risque, il est important de maintenir une **communication régulière** avec les utilisateurs potentiels et de collecter leurs **retours d'expérience** tout au long du processus de développement.
 
 ## Les résultats : une expérience utilisateur de qualité
 
@@ -60,11 +62,15 @@ Voici quelques captures d'écran de l'application :
 
 ## Rétrospective : un apprentissage autodidacte stimulant
 
+En rétrospective, le projet OLAU a été une expérience enrichissante qui m'a permis d'améliorer mes compétences en développement d'applications **multi-plateformes** et en **collaboration** avec des clients pour répondre à leurs besoins. Cependant, il est important de reconnaître que le projet a encore du chemin à parcourir avant d'être pleinement fonctionnel et de répondre aux attentes des utilisateurs finaux. Dans le futur, il serait essentiel de consacrer davantage de temps à la recherche et à la **planification** pour mieux anticiper les défis et les besoins du projet.
+
 Le développement de l'application OLAU est encore en cours et il reste des **fonctionnalités à développer** ainsi que des **améliorations à apporter**. Cependant, le travail accompli jusqu'à présent a été une **expérience enrichissante** sur tous les plans, me permettant de développer mes **compétences en développement d'applications multi-plateformes** en utilisant des technologies innovantes, tout en travaillant en collaboration avec une conductrice de travaux pour répondre aux besoins et aux fonctionnalités nécessaires à son métier.
 
 Malgré l'état d'avancement de l'application, cette expérience m'a permis de découvrir la **satisfaction de développer une application utile et fonctionnelle pour les utilisateurs finaux**, en les impliquant dans le processus de développement pour créer une application qui répond à leurs attentes. C'est une **expérience qui m'a encouragé à poursuivre mon parcours professionnel dans le développement d'applications**, en cherchant toujours à apporter une valeur ajoutée aux utilisateurs.
 
 En somme, bien que l'application ne soit pas encore fonctionnelle, le projet OLAU reste une **expérience stimulante** qui m'a permis de **développer mes compétences et mes connaissances** dans le développement d'applications multi-plateformes, en travaillant en collaboration avec un client pour répondre à ses besoins et à ses attentes.
+
+Dans un futur immédiat, l'objectif est de finaliser le développement des fonctionnalités restantes et d'apporter les améliorations nécessaires pour offrir une **expérience utilisateur optimale**. À moyen terme, l'application OLAU pourrait être étendue pour couvrir d'autres aspects de la construction de maisons, tels que la **gestion des fournisseurs** et des matériaux. À long terme, l'application pourrait devenir une plateforme complète de gestion de projets de construction, offrant une solution **tout-en-un** pour les professionnels du secteur.
 
 ## Compétences liées
 
