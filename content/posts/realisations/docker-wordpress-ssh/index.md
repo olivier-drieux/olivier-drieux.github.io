@@ -10,12 +10,14 @@ menu:
         weight: 5
 ---
 
-# Créer et déployer un site WordPress en SSH avec Docker
+## Créer et déployer un site WordPress en SSH avec Docker
+
 Le **déploiement** et les **tests de fonctionnalités** sur des **sites web WordPress** peuvent être une tâche fastidieuse et risquée, surtout en **production**. Pour simplifier ce processus, il est possible d'utiliser une **image de conteneur Docker**. Dans cet article, nous allons présenter la réalisation d'un projet qui utilise une image de conteneur Docker pour les tests de fonctionnalités sur des sites web WordPress en **environnement local**.
 
 L'objectif principal de ce projet était de simplifier les **tests de fonctionnalités** sur des **sites web WordPress** en utilisant une **image de conteneur Docker** en **environnement local**. Cette approche permet de disposer d'une solution **flexible** pour s'adapter aux besoins spécifiques de chaque projet en termes de versions de WordPress et de PHP, ainsi que les **paramètres de base de données**. En effectuant les **tests localement**, il est possible d'économiser des **coûts** et des **risques** liés aux déploiements en **production**.
 
-# Réalisation d'un projet Docker pour des déploiements WordPress sans effort
+## Réalisation d'un projet Docker pour des déploiements WordPress sans effort
+
 Le projet consistait à créer une **image de conteneur Docker** regroupant toutes les **dépendances** nécessaires pour exécuter un site WordPress, comme le **serveur web Apache**, la **base de données**, WP-CLI et WordPress lui-même, ainsi que des **modèles WordPress** préinstallés.
 
 La première étape a consisté à **configurer les variables d'environnement**, notamment les **informations de base de données**, les **noms d'utilisateur** et les **mots de passe**, ainsi que les **versions de WordPress et de PHP** souhaitées. Ensuite, nous avons installé les **modèles WordPress** dans le dossier **config/templates** avant de déployer le conteneur. Les modèles doivent être installés avant de construire l'image de conteneur, et il faut **reconstruire l'image pour ajouter un nouveau modèle**.

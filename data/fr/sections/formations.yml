@@ -1,8 +1,8 @@
 # section information
 section:
-    name: Formations
-    id: formations
-    weight: 3
+    name: Ma formation
+    id: formation
+    weight: 2
     enable: true
     showOnNavbar: false
     template: sections/education.html

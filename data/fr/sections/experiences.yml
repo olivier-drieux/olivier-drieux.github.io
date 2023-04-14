@@ -1,7 +1,7 @@
 section:
-    name: Expériences # Title of section (default: "")
+    name: Mon expérience # Title of section (default: "")
     id: experiences # url id/slug of section *Required*
-    weight: 2 # Order to display section in (default: alphabetical followed by weight)
+    weight: 3 # Order to display section in (default: alphabetical followed by weight)
     enable: true # Boolean to determine if this section is enabled (default: false)
     showOnNavbar: false # Boolean to determine if a link should be shown for this section on the navbar
     template: sections/experiences.html # allows you to point to a specific template.
@@ -39,7 +39,7 @@ experiences:
 
     - company:
           name: Start.in'tech
-          post: /posts/experiences/start-in-tech
+          post: /posts/experiences/startintech
           location: Agen
           overview: Start.in'tech est une association proposant des projets de développement rémunérés aux étudiants.
       positions:
